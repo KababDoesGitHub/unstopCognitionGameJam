@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://bxw5mudxkppkp"
+path="res://.godot/imported/Weapons.aseprite-5d1054ce5b1d54a6a69dbe35fc36b5f3.res"
+
+[deps]
+
+source_file="res://Assets/Pixel Prototype Player/Aseprite/Weapons.aseprite"
+dest_files=["res://.godot/imported/Weapons.aseprite-5d1054ce5b1d54a6a69dbe35fc36b5f3.res"]
+
+[params]
+
