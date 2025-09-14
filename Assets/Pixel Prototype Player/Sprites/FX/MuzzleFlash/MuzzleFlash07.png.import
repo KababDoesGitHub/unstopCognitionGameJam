@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0a87fgkb43t4"
-path="res://.godot/imported/MuzzleFlash07.png-26a2b09c768f14a4e48baf584b3e91c4.ctex"
+path="res://.godot/imported/MuzzleFlash07.png-ca014993361861495e037c10088d338f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/Sprites/FX/MuzzleFlash/MuzzleFlash07.png"
-dest_files=["res://.godot/imported/MuzzleFlash07.png-26a2b09c768f14a4e48baf584b3e91c4.ctex"]
+source_file="res://assets/Pixel Prototype Player/Sprites/FX/MuzzleFlash/MuzzleFlash07.png"
+dest_files=["res://.godot/imported/MuzzleFlash07.png-ca014993361861495e037c10088d338f.ctex"]
 
 [params]
 

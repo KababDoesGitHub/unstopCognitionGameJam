@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1ncjf87ytodw"
-path="res://.godot/imported/BlueprintTilesetCold.png-2214f43ab99851938359abe4329d025d.ctex"
+path="res://.godot/imported/BlueprintTilesetCold.png-6432c2812a21485c372449e4f754c2ac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Tilesets/AllAngles/BlueprintTilesetCold.png"
-dest_files=["res://.godot/imported/BlueprintTilesetCold.png-2214f43ab99851938359abe4329d025d.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Tilesets/AllAngles/BlueprintTilesetCold.png"
+dest_files=["res://.godot/imported/BlueprintTilesetCold.png-6432c2812a21485c372449e4f754c2ac.ctex"]
 
 [params]
 

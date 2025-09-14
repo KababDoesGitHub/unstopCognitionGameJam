@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d4cfoa6663h8q"
-path="res://.godot/imported/StandingSlash02.png-edbb2f835bd15bfe610c5c41c3c1dfc8.ctex"
+path="res://.godot/imported/StandingSlash02.png-8c762ddbb0439ae1289b644fdb9387e8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/StandingSlash/FX/StandingSlash02.png"
-dest_files=["res://.godot/imported/StandingSlash02.png-edbb2f835bd15bfe610c5c41c3c1dfc8.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/StandingSlash/FX/StandingSlash02.png"
+dest_files=["res://.godot/imported/StandingSlash02.png-8c762ddbb0439ae1289b644fdb9387e8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckp2v3dkmse58"
-path="res://.godot/imported/GunRun07.png-59dfade0e8430f7b3e28c3085bb758a7.ctex"
+path="res://.godot/imported/GunRun07.png-d74115fe1dcb41e2a6d625c0f6b90325.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/GunRun/RightLeg/GunRun07.png"
-dest_files=["res://.godot/imported/GunRun07.png-59dfade0e8430f7b3e28c3085bb758a7.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/GunRun/RightLeg/GunRun07.png"
+dest_files=["res://.godot/imported/GunRun07.png-d74115fe1dcb41e2a6d625c0f6b90325.ctex"]
 
 [params]
 

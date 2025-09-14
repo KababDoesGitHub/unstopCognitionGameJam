@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dplkg7jphssr5"
-path="res://.godot/imported/ColumnsDark.png-db071c8957f5cdb6f7aa544deaf9ef3e.ctex"
+path="res://.godot/imported/ColumnsDark.png-f900a48dea6692d788eddafb5a9e2dce.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Tilesets/Columns/ColumnsDark.png"
-dest_files=["res://.godot/imported/ColumnsDark.png-db071c8957f5cdb6f7aa544deaf9ef3e.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Tilesets/Columns/ColumnsDark.png"
+dest_files=["res://.godot/imported/ColumnsDark.png-f900a48dea6692d788eddafb5a9e2dce.ctex"]
 
 [params]
 

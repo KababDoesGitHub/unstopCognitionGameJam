@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cniv87tvt81b2"
-path="res://.godot/imported/Die01.png-71a7f40e9ff59eb96e0a34d4c31b9ce5.ctex"
+path="res://.godot/imported/Die01.png-c819dbb87aac5dcebdaab739cd180c1f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Die/Head/Die01.png"
-dest_files=["res://.godot/imported/Die01.png-71a7f40e9ff59eb96e0a34d4c31b9ce5.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Die/Head/Die01.png"
+dest_files=["res://.godot/imported/Die01.png-c819dbb87aac5dcebdaab739cd180c1f.ctex"]
 
 [params]
 

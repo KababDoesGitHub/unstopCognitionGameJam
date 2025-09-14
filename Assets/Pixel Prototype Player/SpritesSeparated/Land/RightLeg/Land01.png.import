@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cas0f7gyfp1l6"
-path="res://.godot/imported/Land01.png-a1e29f14e62eff80829b2a3439c17ecd.ctex"
+path="res://.godot/imported/Land01.png-7bf7c8566b1aa3f303be1a68ec44451e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Land/RightLeg/Land01.png"
-dest_files=["res://.godot/imported/Land01.png-a1e29f14e62eff80829b2a3439c17ecd.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Land/RightLeg/Land01.png"
+dest_files=["res://.godot/imported/Land01.png-7bf7c8566b1aa3f303be1a68ec44451e.ctex"]
 
 [params]
 

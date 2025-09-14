@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8ealv5smvugh"
-path="res://.godot/imported/Skateboard_Enter.png-810a41d423e73605623a6e6df01ab028.ctex"
+path="res://.godot/imported/Skateboard_Enter.png-7c99e36ffe24ecf7dd3d0035bda0d190.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/Skateboard/Skateboard_Enter.png"
-dest_files=["res://.godot/imported/Skateboard_Enter.png-810a41d423e73605623a6e6df01ab028.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/Skateboard/Skateboard_Enter.png"
+dest_files=["res://.godot/imported/Skateboard_Enter.png-7c99e36ffe24ecf7dd3d0035bda0d190.ctex"]
 
 [params]
 

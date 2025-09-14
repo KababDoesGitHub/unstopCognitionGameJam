@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bby6y4xcsffr8"
-path="res://.godot/imported/LeverSwitchOff.png-2c5d041c48c333d7b80eb501c9626d56.ctex"
+path="res://.godot/imported/LeverSwitchOff.png-058c641f37ad782258a125ca689b5e1f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Lever/LeverSwitchOff.png"
-dest_files=["res://.godot/imported/LeverSwitchOff.png-2c5d041c48c333d7b80eb501c9626d56.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Lever/LeverSwitchOff.png"
+dest_files=["res://.godot/imported/LeverSwitchOff.png-058c641f37ad782258a125ca689b5e1f.ctex"]
 
 [params]
 

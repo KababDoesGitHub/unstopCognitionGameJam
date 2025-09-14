@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8tqlqpdeuow6"
-path="res://.godot/imported/SpringUpLeftTrigger.png-e8ddcdbf72bba6ce1e8ddbef35a78e8a.ctex"
+path="res://.godot/imported/SpringUpLeftTrigger.png-dcae703d75df5fe8913c985c79b7ccef.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Springs/SpringUpLeftTrigger.png"
-dest_files=["res://.godot/imported/SpringUpLeftTrigger.png-e8ddcdbf72bba6ce1e8ddbef35a78e8a.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Springs/SpringUpLeftTrigger.png"
+dest_files=["res://.godot/imported/SpringUpLeftTrigger.png-dcae703d75df5fe8913c985c79b7ccef.ctex"]
 
 [params]
 

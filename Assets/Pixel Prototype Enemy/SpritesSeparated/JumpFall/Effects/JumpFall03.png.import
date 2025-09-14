@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2myhw503u1dw"
-path="res://.godot/imported/JumpFall03.png-10f5ec25f843233a9e34af6806b350a8.ctex"
+path="res://.godot/imported/JumpFall03.png-147588d829e260b4d1f83fe9f6a34b7f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/SpritesSeparated/JumpFall/Effects/JumpFall03.png"
-dest_files=["res://.godot/imported/JumpFall03.png-10f5ec25f843233a9e34af6806b350a8.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/SpritesSeparated/JumpFall/Effects/JumpFall03.png"
+dest_files=["res://.godot/imported/JumpFall03.png-147588d829e260b4d1f83fe9f6a34b7f.ctex"]
 
 [params]
 

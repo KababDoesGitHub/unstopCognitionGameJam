@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5org3ew15nm1"
-path="res://.godot/imported/Spin02.png-c125ea70bb64297da1f861e05c1b1bd7.ctex"
+path="res://.godot/imported/Spin02.png-ee5542ffc786230041589f35d4ff67e9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Spin/RightLeg/Spin02.png"
-dest_files=["res://.godot/imported/Spin02.png-c125ea70bb64297da1f861e05c1b1bd7.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Spin/RightLeg/Spin02.png"
+dest_files=["res://.godot/imported/Spin02.png-ee5542ffc786230041589f35d4ff67e9.ctex"]
 
 [params]
 

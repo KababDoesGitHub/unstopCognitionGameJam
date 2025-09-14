@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ch3qoyr0nsjr4"
-path="res://.godot/imported/Bird_Idle.png-7a42d755a8dc4186bc995534086debab.ctex"
+path="res://.godot/imported/Bird_Idle.png-1eb6603fc4139b092961cc7658096af2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Characters/Bird/Bird_Idle.png"
-dest_files=["res://.godot/imported/Bird_Idle.png-7a42d755a8dc4186bc995534086debab.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Characters/Bird/Bird_Idle.png"
+dest_files=["res://.godot/imported/Bird_Idle.png-1eb6603fc4139b092961cc7658096af2.ctex"]
 
 [params]
 

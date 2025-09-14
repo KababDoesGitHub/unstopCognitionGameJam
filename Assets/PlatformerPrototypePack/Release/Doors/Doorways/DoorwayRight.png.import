@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnarxuci3whsa"
-path="res://.godot/imported/DoorwayRight.png-21c0340282b3a971e83eefe6e247b32e.ctex"
+path="res://.godot/imported/DoorwayRight.png-410622d4c8be2e54ef94d8d3a68847e5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Doors/Doorways/DoorwayRight.png"
-dest_files=["res://.godot/imported/DoorwayRight.png-21c0340282b3a971e83eefe6e247b32e.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Doors/Doorways/DoorwayRight.png"
+dest_files=["res://.godot/imported/DoorwayRight.png-410622d4c8be2e54ef94d8d3a68847e5.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bso07vui2m8qf"
-path="res://.godot/imported/Catch07.png-d62e44794eaab43108c174d938e66160.ctex"
+path="res://.godot/imported/Catch07.png-0182f467bc36f5cb2590a2b14bbcf82c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Fishing/Catch/Head/Catch07.png"
-dest_files=["res://.godot/imported/Catch07.png-d62e44794eaab43108c174d938e66160.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Fishing/Catch/Head/Catch07.png"
+dest_files=["res://.godot/imported/Catch07.png-0182f467bc36f5cb2590a2b14bbcf82c.ctex"]
 
 [params]
 

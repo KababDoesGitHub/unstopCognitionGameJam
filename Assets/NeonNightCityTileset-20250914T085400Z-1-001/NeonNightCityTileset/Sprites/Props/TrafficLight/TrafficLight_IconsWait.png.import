@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btxa00stqcfi0"
-path="res://.godot/imported/TrafficLight_IconsWait.png-8aa11bc3986026637b9abb0c99fb9c80.ctex"
+path="res://.godot/imported/TrafficLight_IconsWait.png-603104f8c4222714c1494c64e950f24c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/TrafficLight/TrafficLight_IconsWait.png"
-dest_files=["res://.godot/imported/TrafficLight_IconsWait.png-8aa11bc3986026637b9abb0c99fb9c80.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/TrafficLight/TrafficLight_IconsWait.png"
+dest_files=["res://.godot/imported/TrafficLight_IconsWait.png-603104f8c4222714c1494c64e950f24c.ctex"]
 
 [params]
 

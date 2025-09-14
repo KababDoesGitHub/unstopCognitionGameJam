@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1mhe0e5xb1je"
-path="res://.godot/imported/SwordJump02.png-1bd828a42d802f01a6c586fc81524475.ctex"
+path="res://.godot/imported/SwordJump02.png-b5668555bfdba0131e79c6c1493364d1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/SwordJump/Head/SwordJump02.png"
-dest_files=["res://.godot/imported/SwordJump02.png-1bd828a42d802f01a6c586fc81524475.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/SwordJump/Head/SwordJump02.png"
+dest_files=["res://.godot/imported/SwordJump02.png-b5668555bfdba0131e79c6c1493364d1.ctex"]
 
 [params]
 

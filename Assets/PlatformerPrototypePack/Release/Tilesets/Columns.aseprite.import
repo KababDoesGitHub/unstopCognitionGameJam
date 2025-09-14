@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://3ly3o76osum3"
-path="res://.godot/imported/Columns.aseprite-4828d0837990b7f270a0485e277380f5.res"
+path="res://.godot/imported/Columns.aseprite-fdf4be8de168566a638a3de719d0e860.res"
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Tilesets/Columns.aseprite"
-dest_files=["res://.godot/imported/Columns.aseprite-4828d0837990b7f270a0485e277380f5.res"]
+source_file="res://assets/PlatformerPrototypePack/Release/Tilesets/Columns.aseprite"
+dest_files=["res://.godot/imported/Columns.aseprite-fdf4be8de168566a638a3de719d0e860.res"]
 
 [params]
 

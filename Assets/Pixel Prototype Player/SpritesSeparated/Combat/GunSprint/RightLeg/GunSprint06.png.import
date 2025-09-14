@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7ov1dtus07q1"
-path="res://.godot/imported/GunSprint06.png-a5c10b792222ca9b8e315cc1929bcc79.ctex"
+path="res://.godot/imported/GunSprint06.png-6a3baca28ad51b3f5f48e24eb034cffe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/GunSprint/RightLeg/GunSprint06.png"
-dest_files=["res://.godot/imported/GunSprint06.png-a5c10b792222ca9b8e315cc1929bcc79.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/GunSprint/RightLeg/GunSprint06.png"
+dest_files=["res://.godot/imported/GunSprint06.png-6a3baca28ad51b3f5f48e24eb034cffe.ctex"]
 
 [params]
 

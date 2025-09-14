@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ukia3ukew6py"
-path="res://.godot/imported/LandingDust06.png-444874f6c671161066e43b50e759a513.ctex"
+path="res://.godot/imported/LandingDust06.png-524c7387f355f627e9ae57e1ec9af94a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/Sprites/Effects/LandingDust/LandingDust06.png"
-dest_files=["res://.godot/imported/LandingDust06.png-444874f6c671161066e43b50e759a513.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/Sprites/Effects/LandingDust/LandingDust06.png"
+dest_files=["res://.godot/imported/LandingDust06.png-524c7387f355f627e9ae57e1ec9af94a.ctex"]
 
 [params]
 

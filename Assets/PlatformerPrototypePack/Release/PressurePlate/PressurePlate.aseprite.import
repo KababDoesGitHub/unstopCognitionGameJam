@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://beyusrq5wrrc1"
-path="res://.godot/imported/PressurePlate.aseprite-198a09a6ba4a600887532b2fdcbea152.res"
+path="res://.godot/imported/PressurePlate.aseprite-067eb4e4aa30a1e4e8e80f4e273585c5.res"
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/PressurePlate/PressurePlate.aseprite"
-dest_files=["res://.godot/imported/PressurePlate.aseprite-198a09a6ba4a600887532b2fdcbea152.res"]
+source_file="res://assets/PlatformerPrototypePack/Release/PressurePlate/PressurePlate.aseprite"
+dest_files=["res://.godot/imported/PressurePlate.aseprite-067eb4e4aa30a1e4e8e80f4e273585c5.res"]
 
 [params]
 

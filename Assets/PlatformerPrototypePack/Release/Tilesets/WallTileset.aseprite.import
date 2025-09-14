@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://epm6ntiey0b7"
-path="res://.godot/imported/WallTileset.aseprite-936b9dca9047bbb2e45b1398620c78b4.res"
+path="res://.godot/imported/WallTileset.aseprite-117e28ef135370d1ac160e1d3cd74296.res"
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Tilesets/WallTileset.aseprite"
-dest_files=["res://.godot/imported/WallTileset.aseprite-936b9dca9047bbb2e45b1398620c78b4.res"]
+source_file="res://assets/PlatformerPrototypePack/Release/Tilesets/WallTileset.aseprite"
+dest_files=["res://.godot/imported/WallTileset.aseprite-117e28ef135370d1ac160e1d3cd74296.res"]
 
 [params]
 

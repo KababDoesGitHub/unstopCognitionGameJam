@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ch6smbrn08qgs"
-path="res://.godot/imported/ShockA03.png-faa284ca66b586a121a21099bb2d6a01.ctex"
+path="res://.godot/imported/ShockA03.png-85780c6e93f8e1d4b48dcdaa7f828264.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/SpritesSeparated/ShockA/Effects/ShockA03.png"
-dest_files=["res://.godot/imported/ShockA03.png-faa284ca66b586a121a21099bb2d6a01.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/SpritesSeparated/ShockA/Effects/ShockA03.png"
+dest_files=["res://.godot/imported/ShockA03.png-85780c6e93f8e1d4b48dcdaa7f828264.ctex"]
 
 [params]
 

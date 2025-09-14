@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dx31amqb82q3f"
-path="res://.godot/imported/CombatDummyIdle.png-91bdf340079034340dca8ad92af3af18.ctex"
+path="res://.godot/imported/CombatDummyIdle.png-9f7ee027faf13183052d56195cca674d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/CombatDummy/CombatDummyIdle.png"
-dest_files=["res://.godot/imported/CombatDummyIdle.png-91bdf340079034340dca8ad92af3af18.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/CombatDummy/CombatDummyIdle.png"
+dest_files=["res://.godot/imported/CombatDummyIdle.png-9f7ee027faf13183052d56195cca674d.ctex"]
 
 [params]
 

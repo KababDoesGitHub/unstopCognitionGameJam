@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://h2ng4ljch4x2"
-path="res://.godot/imported/TrafficLight.aseprite-7560f1612c4e04f35266627a968f3810.res"
+path="res://.godot/imported/TrafficLight.aseprite-f43fdd929cad73d27a164338f2b1eab3.res"
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Aseprite/TrafficLight.aseprite"
-dest_files=["res://.godot/imported/TrafficLight.aseprite-7560f1612c4e04f35266627a968f3810.res"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Aseprite/TrafficLight.aseprite"
+dest_files=["res://.godot/imported/TrafficLight.aseprite-f43fdd929cad73d27a164338f2b1eab3.res"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://craadk3ydv43d"
-path="res://.godot/imported/ClimbUpLeft05.png-5eb04b3f765ed3dde7ae6f850aced574.ctex"
+path="res://.godot/imported/ClimbUpLeft05.png-b28bc4ce772ef4c16b2e7b23225004e1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/ClimbUpLeft/RightLeg/ClimbUpLeft05.png"
-dest_files=["res://.godot/imported/ClimbUpLeft05.png-5eb04b3f765ed3dde7ae6f850aced574.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/ClimbUpLeft/RightLeg/ClimbUpLeft05.png"
+dest_files=["res://.godot/imported/ClimbUpLeft05.png-b28bc4ce772ef4c16b2e7b23225004e1.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vclvclqyhpsc"
-path="res://.godot/imported/GuardImpact03.png-52fdf2886a4d746c16667a0bd167268a.ctex"
+path="res://.godot/imported/GuardImpact03.png-60abcbbf6267f6c178c4b51efe09381d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/GuardImpact/Weapon/GuardImpact03.png"
-dest_files=["res://.godot/imported/GuardImpact03.png-52fdf2886a4d746c16667a0bd167268a.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/GuardImpact/Weapon/GuardImpact03.png"
+dest_files=["res://.godot/imported/GuardImpact03.png-60abcbbf6267f6c178c4b51efe09381d.ctex"]
 
 [params]
 

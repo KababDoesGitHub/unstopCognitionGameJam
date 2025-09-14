@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpxw7bia3dt87"
-path="res://.godot/imported/Pull01.png-201232f073578ba33038a9a3665386ff.ctex"
+path="res://.godot/imported/Pull01.png-50865a2386cfac2382b42accd4e48224.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Pull/Head/Pull01.png"
-dest_files=["res://.godot/imported/Pull01.png-201232f073578ba33038a9a3665386ff.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Pull/Head/Pull01.png"
+dest_files=["res://.godot/imported/Pull01.png-50865a2386cfac2382b42accd4e48224.ctex"]
 
 [params]
 

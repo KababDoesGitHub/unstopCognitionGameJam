@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://s0c3irun33eg"
-path="res://.godot/imported/Stunned05.png-88c6747d7e20075b1410cfd954cf5ef6.ctex"
+path="res://.godot/imported/Stunned05.png-30edf43bc4e6048c8364b4dec130d110.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/Stunned/FX/Stunned05.png"
-dest_files=["res://.godot/imported/Stunned05.png-88c6747d7e20075b1410cfd954cf5ef6.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/Stunned/FX/Stunned05.png"
+dest_files=["res://.godot/imported/Stunned05.png-30edf43bc4e6048c8364b4dec130d110.ctex"]
 
 [params]
 

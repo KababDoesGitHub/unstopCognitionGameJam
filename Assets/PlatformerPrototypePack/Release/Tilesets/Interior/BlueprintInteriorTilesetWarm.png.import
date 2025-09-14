@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://crosemvgm3gmy"
-path="res://.godot/imported/BlueprintInteriorTilesetWarm.png-7cfbd59e153cffed01d4b4fd631ec746.ctex"
+path="res://.godot/imported/BlueprintInteriorTilesetWarm.png-12733bc64a0e91cb78dff59d8a0f4239.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Tilesets/Interior/BlueprintInteriorTilesetWarm.png"
-dest_files=["res://.godot/imported/BlueprintInteriorTilesetWarm.png-7cfbd59e153cffed01d4b4fd631ec746.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Tilesets/Interior/BlueprintInteriorTilesetWarm.png"
+dest_files=["res://.godot/imported/BlueprintInteriorTilesetWarm.png-12733bc64a0e91cb78dff59d8a0f4239.ctex"]
 
 [params]
 

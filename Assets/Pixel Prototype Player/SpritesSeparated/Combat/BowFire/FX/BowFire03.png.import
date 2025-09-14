@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://y8kqfdgmregf"
-path="res://.godot/imported/BowFire03.png-23265c0a24ffdd594c50fac06b29ca16.ctex"
+path="res://.godot/imported/BowFire03.png-c223f44f026165b8f4ed2ad1f81f50ca.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/BowFire/FX/BowFire03.png"
-dest_files=["res://.godot/imported/BowFire03.png-23265c0a24ffdd594c50fac06b29ca16.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/BowFire/FX/BowFire03.png"
+dest_files=["res://.godot/imported/BowFire03.png-c223f44f026165b8f4ed2ad1f81f50ca.ctex"]
 
 [params]
 

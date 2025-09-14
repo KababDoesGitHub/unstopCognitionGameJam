@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvsfkm7eg21a"
-path="res://.godot/imported/HitUp03.png-147a8788a50ce3e2347a6280aa1f8b50.ctex"
+path="res://.godot/imported/HitUp03.png-15ebfdb8d5e9b7ac03b4baf753ef26b1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/Sprites/Combat/HitUp/HitUp03.png"
-dest_files=["res://.godot/imported/HitUp03.png-147a8788a50ce3e2347a6280aa1f8b50.ctex"]
+source_file="res://assets/Pixel Prototype Player/Sprites/Combat/HitUp/HitUp03.png"
+dest_files=["res://.godot/imported/HitUp03.png-15ebfdb8d5e9b7ac03b4baf753ef26b1.ctex"]
 
 [params]
 

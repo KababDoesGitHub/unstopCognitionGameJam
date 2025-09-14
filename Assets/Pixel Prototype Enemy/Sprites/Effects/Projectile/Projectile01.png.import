@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://r11tl7kqucfg"
-path="res://.godot/imported/Projectile01.png-46039f22a64e5a477f314f9e95737481.ctex"
+path="res://.godot/imported/Projectile01.png-2f34c01be5d8cec5abbba0c1eb2a970e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/Sprites/Effects/Projectile/Projectile01.png"
-dest_files=["res://.godot/imported/Projectile01.png-46039f22a64e5a477f314f9e95737481.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/Sprites/Effects/Projectile/Projectile01.png"
+dest_files=["res://.godot/imported/Projectile01.png-2f34c01be5d8cec5abbba0c1eb2a970e.ctex"]
 
 [params]
 

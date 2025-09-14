@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4uck5b1cxio3"
-path="res://.godot/imported/Vehicles_TrainFront_Land.png-5cf88537e02aa383bf284042285baafe.ctex"
+path="res://.godot/imported/Vehicles_TrainFront_Land.png-6a6e211ba72a540a0f49d096549cddd9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Vehicles/Vehicles_TrainFront_Land.png"
-dest_files=["res://.godot/imported/Vehicles_TrainFront_Land.png-5cf88537e02aa383bf284042285baafe.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Vehicles/Vehicles_TrainFront_Land.png"
+dest_files=["res://.godot/imported/Vehicles_TrainFront_Land.png-6a6e211ba72a540a0f49d096549cddd9.ctex"]
 
 [params]
 

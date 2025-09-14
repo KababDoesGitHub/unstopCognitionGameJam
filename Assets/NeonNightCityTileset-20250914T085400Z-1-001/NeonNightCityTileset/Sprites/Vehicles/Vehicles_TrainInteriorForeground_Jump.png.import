@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://clwi2oajne4ah"
-path="res://.godot/imported/Vehicles_TrainInteriorForeground_Jump.png-80d85fee0ae72e21825a9820a99fa2c6.ctex"
+path="res://.godot/imported/Vehicles_TrainInteriorForeground_Jump.png-94b182b9daa5689f22fba75b83da28c5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Vehicles/Vehicles_TrainInteriorForeground_Jump.png"
-dest_files=["res://.godot/imported/Vehicles_TrainInteriorForeground_Jump.png-80d85fee0ae72e21825a9820a99fa2c6.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Vehicles/Vehicles_TrainInteriorForeground_Jump.png"
+dest_files=["res://.godot/imported/Vehicles_TrainInteriorForeground_Jump.png-94b182b9daa5689f22fba75b83da28c5.ctex"]
 
 [params]
 

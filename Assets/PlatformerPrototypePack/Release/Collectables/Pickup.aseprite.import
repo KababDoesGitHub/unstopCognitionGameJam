@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://ckbnh6sx1rh5a"
-path="res://.godot/imported/Pickup.aseprite-0fc194dc7fa7939201c7e8dc0724aaca.res"
+path="res://.godot/imported/Pickup.aseprite-2cc6ba19f1d7b7a723789584443a61f5.res"
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Collectables/Pickup.aseprite"
-dest_files=["res://.godot/imported/Pickup.aseprite-0fc194dc7fa7939201c7e8dc0724aaca.res"]
+source_file="res://assets/PlatformerPrototypePack/Release/Collectables/Pickup.aseprite"
+dest_files=["res://.godot/imported/Pickup.aseprite-2cc6ba19f1d7b7a723789584443a61f5.res"]
 
 [params]
 

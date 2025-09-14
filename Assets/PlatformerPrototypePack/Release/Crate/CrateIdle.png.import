@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bu0shii4bjlj2"
-path="res://.godot/imported/CrateIdle.png-dd239284e664d960a87b2a65367e1445.ctex"
+path="res://.godot/imported/CrateIdle.png-a8c84f91f1087b4b9253a39db328e09b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Crate/CrateIdle.png"
-dest_files=["res://.godot/imported/CrateIdle.png-dd239284e664d960a87b2a65367e1445.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Crate/CrateIdle.png"
+dest_files=["res://.godot/imported/CrateIdle.png-a8c84f91f1087b4b9253a39db328e09b.ctex"]
 
 [params]
 

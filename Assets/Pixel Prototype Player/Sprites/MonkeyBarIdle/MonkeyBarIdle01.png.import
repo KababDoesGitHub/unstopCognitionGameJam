@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbjsd1xduvs3u"
-path="res://.godot/imported/MonkeyBarIdle01.png-91cb760aa050557759c1da34c9040cb6.ctex"
+path="res://.godot/imported/MonkeyBarIdle01.png-e10a40f84a33d9927909a14d704b2293.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/Sprites/MonkeyBarIdle/MonkeyBarIdle01.png"
-dest_files=["res://.godot/imported/MonkeyBarIdle01.png-91cb760aa050557759c1da34c9040cb6.ctex"]
+source_file="res://assets/Pixel Prototype Player/Sprites/MonkeyBarIdle/MonkeyBarIdle01.png"
+dest_files=["res://.godot/imported/MonkeyBarIdle01.png-e10a40f84a33d9927909a14d704b2293.ctex"]
 
 [params]
 

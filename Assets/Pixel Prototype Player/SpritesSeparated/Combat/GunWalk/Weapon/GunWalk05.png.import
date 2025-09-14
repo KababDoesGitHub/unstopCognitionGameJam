@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7x1u45cv54cq"
-path="res://.godot/imported/GunWalk05.png-906c90c7bceb05c9956c4e7956763bc2.ctex"
+path="res://.godot/imported/GunWalk05.png-87a9a3797227d27ed70576cffc3a7f89.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/GunWalk/Weapon/GunWalk05.png"
-dest_files=["res://.godot/imported/GunWalk05.png-906c90c7bceb05c9956c4e7956763bc2.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/GunWalk/Weapon/GunWalk05.png"
+dest_files=["res://.godot/imported/GunWalk05.png-87a9a3797227d27ed70576cffc3a7f89.ctex"]
 
 [params]
 

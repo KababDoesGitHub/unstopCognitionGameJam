@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djs0brmtx3gdc"
-path="res://.godot/imported/LedgeHang03.png-ec14c9e5c8ca583297235237e4acfe9b.ctex"
+path="res://.godot/imported/LedgeHang03.png-5c539c1d331fa08494ac096772e498a7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/LedgeHang/RightArm/LedgeHang03.png"
-dest_files=["res://.godot/imported/LedgeHang03.png-ec14c9e5c8ca583297235237e4acfe9b.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/LedgeHang/RightArm/LedgeHang03.png"
+dest_files=["res://.godot/imported/LedgeHang03.png-5c539c1d331fa08494ac096772e498a7.ctex"]
 
 [params]
 

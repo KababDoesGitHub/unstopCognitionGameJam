@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://carqcf2uj6l2b"
-path="res://.godot/imported/BlueprintInteriorTilesetDark.png-79b92a8130e571d512618face2a77e8c.ctex"
+path="res://.godot/imported/BlueprintInteriorTilesetDark.png-c7917255b14190160a27af49df48438c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Tilesets/Interior/BlueprintInteriorTilesetDark.png"
-dest_files=["res://.godot/imported/BlueprintInteriorTilesetDark.png-79b92a8130e571d512618face2a77e8c.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Tilesets/Interior/BlueprintInteriorTilesetDark.png"
+dest_files=["res://.godot/imported/BlueprintInteriorTilesetDark.png-c7917255b14190160a27af49df48438c.ctex"]
 
 [params]
 

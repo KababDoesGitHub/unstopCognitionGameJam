@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bruldtoea3mos"
-path="res://.godot/imported/TeleporterActivate.png-7fb6c4e4aecbe53ca7c89f66abd5bf1a.ctex"
+path="res://.godot/imported/TeleporterActivate.png-c6f3fcb60b8e27dbe8501959ea2ffd54.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Teleporter/TeleporterActivate.png"
-dest_files=["res://.godot/imported/TeleporterActivate.png-7fb6c4e4aecbe53ca7c89f66abd5bf1a.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Teleporter/TeleporterActivate.png"
+dest_files=["res://.godot/imported/TeleporterActivate.png-c6f3fcb60b8e27dbe8501959ea2ffd54.ctex"]
 
 [params]
 

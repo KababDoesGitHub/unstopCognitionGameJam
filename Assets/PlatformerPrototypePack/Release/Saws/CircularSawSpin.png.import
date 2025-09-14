@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cah35ryak18wt"
-path="res://.godot/imported/CircularSawSpin.png-1eef7c086e17ecdf2d226e3aa7daabce.ctex"
+path="res://.godot/imported/CircularSawSpin.png-537fb85e6ef3ebcafa633b41ea579bc4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Saws/CircularSawSpin.png"
-dest_files=["res://.godot/imported/CircularSawSpin.png-1eef7c086e17ecdf2d226e3aa7daabce.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Saws/CircularSawSpin.png"
+dest_files=["res://.godot/imported/CircularSawSpin.png-537fb85e6ef3ebcafa633b41ea579bc4.ctex"]
 
 [params]
 

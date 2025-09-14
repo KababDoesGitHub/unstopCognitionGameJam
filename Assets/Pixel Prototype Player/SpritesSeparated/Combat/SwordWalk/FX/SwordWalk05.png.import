@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dknvl6hcjrs4n"
-path="res://.godot/imported/SwordWalk05.png-77dcea7926c984a6ff62cbee08dd6704.ctex"
+path="res://.godot/imported/SwordWalk05.png-859f611e5807f166c30c3e3047f97007.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/SwordWalk/FX/SwordWalk05.png"
-dest_files=["res://.godot/imported/SwordWalk05.png-77dcea7926c984a6ff62cbee08dd6704.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/SwordWalk/FX/SwordWalk05.png"
+dest_files=["res://.godot/imported/SwordWalk05.png-859f611e5807f166c30c3e3047f97007.ctex"]
 
 [params]
 

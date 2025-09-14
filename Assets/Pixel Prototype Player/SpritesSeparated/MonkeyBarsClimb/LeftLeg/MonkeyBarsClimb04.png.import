@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpo0xs2xxemps"
-path="res://.godot/imported/MonkeyBarsClimb04.png-dab730b28c2f169f70f4d5c618d2b458.ctex"
+path="res://.godot/imported/MonkeyBarsClimb04.png-92a082c18923b8716579aa47d338efd7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/MonkeyBarsClimb/LeftLeg/MonkeyBarsClimb04.png"
-dest_files=["res://.godot/imported/MonkeyBarsClimb04.png-dab730b28c2f169f70f4d5c618d2b458.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/MonkeyBarsClimb/LeftLeg/MonkeyBarsClimb04.png"
+dest_files=["res://.godot/imported/MonkeyBarsClimb04.png-92a082c18923b8716579aa47d338efd7.ctex"]
 
 [params]
 

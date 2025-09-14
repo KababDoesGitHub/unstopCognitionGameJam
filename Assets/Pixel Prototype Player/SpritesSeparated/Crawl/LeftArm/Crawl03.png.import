@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bu4guu0drc5nw"
-path="res://.godot/imported/Crawl03.png-0be274233899e371258d15e5643dc12f.ctex"
+path="res://.godot/imported/Crawl03.png-021037f084b25ad07c32e205ac28a1d9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Crawl/LeftArm/Crawl03.png"
-dest_files=["res://.godot/imported/Crawl03.png-0be274233899e371258d15e5643dc12f.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Crawl/LeftArm/Crawl03.png"
+dest_files=["res://.godot/imported/Crawl03.png-021037f084b25ad07c32e205ac28a1d9.ctex"]
 
 [params]
 

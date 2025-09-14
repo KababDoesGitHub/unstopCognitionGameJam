@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csa1txwppwq7d"
-path="res://.godot/imported/CrouchDustBack08.png-5a1b5731effa7c467e59c9dc5a30d945.ctex"
+path="res://.godot/imported/CrouchDustBack08.png-2c22ea8097b6196162583f71af7a1594.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/Sprites/Effects/CrouchDustBack/CrouchDustBack08.png"
-dest_files=["res://.godot/imported/CrouchDustBack08.png-5a1b5731effa7c467e59c9dc5a30d945.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/Sprites/Effects/CrouchDustBack/CrouchDustBack08.png"
+dest_files=["res://.godot/imported/CrouchDustBack08.png-2c22ea8097b6196162583f71af7a1594.ctex"]
 
 [params]
 

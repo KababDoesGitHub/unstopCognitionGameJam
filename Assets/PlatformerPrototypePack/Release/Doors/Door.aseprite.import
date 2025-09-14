@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://fxge673jnj3q"
-path="res://.godot/imported/Door.aseprite-ca1467d998a877e38709157903f07bbd.res"
+path="res://.godot/imported/Door.aseprite-fd1c506dd34e72f4fa30d49fcff2cb62.res"
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Doors/Door.aseprite"
-dest_files=["res://.godot/imported/Door.aseprite-ca1467d998a877e38709157903f07bbd.res"]
+source_file="res://assets/PlatformerPrototypePack/Release/Doors/Door.aseprite"
+dest_files=["res://.godot/imported/Door.aseprite-fd1c506dd34e72f4fa30d49fcff2cb62.res"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b62yso1s0is0m"
-path="res://.godot/imported/NeonSigns_TitleHotel_On.png-30b4272b897748a4179c6b2f07f231a4.ctex"
+path="res://.godot/imported/NeonSigns_TitleHotel_On.png-8e6adc42b5029312a385ff13aaa74fad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Buildings/NeonSigns/NeonSigns_TitleHotel_On.png"
-dest_files=["res://.godot/imported/NeonSigns_TitleHotel_On.png-30b4272b897748a4179c6b2f07f231a4.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Buildings/NeonSigns/NeonSigns_TitleHotel_On.png"
+dest_files=["res://.godot/imported/NeonSigns_TitleHotel_On.png-8e6adc42b5029312a385ff13aaa74fad.ctex"]
 
 [params]
 

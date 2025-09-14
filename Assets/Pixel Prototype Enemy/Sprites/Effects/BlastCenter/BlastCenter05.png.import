@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cenbf75khx8b7"
-path="res://.godot/imported/BlastCenter05.png-b6b591592fb57c33cafe2e9e916c0a4b.ctex"
+path="res://.godot/imported/BlastCenter05.png-8baee511acda9e6ba02f4872fef02944.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/Sprites/Effects/BlastCenter/BlastCenter05.png"
-dest_files=["res://.godot/imported/BlastCenter05.png-b6b591592fb57c33cafe2e9e916c0a4b.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/Sprites/Effects/BlastCenter/BlastCenter05.png"
+dest_files=["res://.godot/imported/BlastCenter05.png-8baee511acda9e6ba02f4872fef02944.ctex"]
 
 [params]
 

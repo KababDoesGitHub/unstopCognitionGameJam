@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d34g0jv1ebgjv"
-path="res://.godot/imported/SpringUpIdle.png-7053cfa6765f04d0281c741ca624e439.ctex"
+path="res://.godot/imported/SpringUpIdle.png-52179f8c745e62b143477984bb1eeaa2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Springs/SpringUpIdle.png"
-dest_files=["res://.godot/imported/SpringUpIdle.png-7053cfa6765f04d0281c741ca624e439.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Springs/SpringUpIdle.png"
+dest_files=["res://.godot/imported/SpringUpIdle.png-52179f8c745e62b143477984bb1eeaa2.ctex"]
 
 [params]
 

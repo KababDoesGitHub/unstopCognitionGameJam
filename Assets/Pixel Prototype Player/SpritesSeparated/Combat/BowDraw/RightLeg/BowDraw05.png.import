@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ch2efmbs6l17o"
-path="res://.godot/imported/BowDraw05.png-cff77d19eca3b1c6af69b277ed0de04b.ctex"
+path="res://.godot/imported/BowDraw05.png-aa6e1427d6d830d65d1515e06ac4bf46.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/BowDraw/RightLeg/BowDraw05.png"
-dest_files=["res://.godot/imported/BowDraw05.png-cff77d19eca3b1c6af69b277ed0de04b.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/BowDraw/RightLeg/BowDraw05.png"
+dest_files=["res://.godot/imported/BowDraw05.png-aa6e1427d6d830d65d1515e06ac4bf46.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jke3l7bscqas"
-path="res://.godot/imported/BackdoorStairsOpened.png-f9dded6bca568531d25164bb69f19104.ctex"
+path="res://.godot/imported/BackdoorStairsOpened.png-33f9bfce619d86a4d882ea4ab010af4f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Doors/Backdoor/BackdoorStairsOpened.png"
-dest_files=["res://.godot/imported/BackdoorStairsOpened.png-f9dded6bca568531d25164bb69f19104.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Doors/Backdoor/BackdoorStairsOpened.png"
+dest_files=["res://.godot/imported/BackdoorStairsOpened.png-33f9bfce619d86a4d882ea4ab010af4f.ctex"]
 
 [params]
 

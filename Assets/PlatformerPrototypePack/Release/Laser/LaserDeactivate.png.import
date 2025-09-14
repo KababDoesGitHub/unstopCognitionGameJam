@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btbdwaof4k6es"
-path="res://.godot/imported/LaserDeactivate.png-aa78a87efec74f7c1adaa02e7b161e60.ctex"
+path="res://.godot/imported/LaserDeactivate.png-600b025360d59b7398c6dcc16f85b8b2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Laser/LaserDeactivate.png"
-dest_files=["res://.godot/imported/LaserDeactivate.png-aa78a87efec74f7c1adaa02e7b161e60.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Laser/LaserDeactivate.png"
+dest_files=["res://.godot/imported/LaserDeactivate.png-600b025360d59b7398c6dcc16f85b8b2.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://rfqmtdsjp5kh"
-path="res://.godot/imported/PhoneBooths.aseprite-78bc34f54eaeff016c00b679ada4ca2f.res"
+path="res://.godot/imported/PhoneBooths.aseprite-0ba8443c3b67d06aa74a1a951de6b111.res"
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Aseprite/PhoneBooths.aseprite"
-dest_files=["res://.godot/imported/PhoneBooths.aseprite-78bc34f54eaeff016c00b679ada4ca2f.res"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Aseprite/PhoneBooths.aseprite"
+dest_files=["res://.godot/imported/PhoneBooths.aseprite-0ba8443c3b67d06aa74a1a951de6b111.res"]
 
 [params]
 

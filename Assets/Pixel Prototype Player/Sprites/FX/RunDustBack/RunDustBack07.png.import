@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csgaglc7skdcb"
-path="res://.godot/imported/RunDustBack07.png-a24d2af43f4c9aa465c08f5de2a61134.ctex"
+path="res://.godot/imported/RunDustBack07.png-feac4d52d19f33b9fdd7189f522f330f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/Sprites/FX/RunDustBack/RunDustBack07.png"
-dest_files=["res://.godot/imported/RunDustBack07.png-a24d2af43f4c9aa465c08f5de2a61134.ctex"]
+source_file="res://assets/Pixel Prototype Player/Sprites/FX/RunDustBack/RunDustBack07.png"
+dest_files=["res://.godot/imported/RunDustBack07.png-feac4d52d19f33b9fdd7189f522f330f.ctex"]
 
 [params]
 

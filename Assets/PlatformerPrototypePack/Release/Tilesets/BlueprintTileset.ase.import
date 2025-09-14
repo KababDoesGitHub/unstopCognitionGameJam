@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://bq6oabjbgksm6"
-path="res://.godot/imported/BlueprintTileset.ase-a9c65922a39f8fa29cab9e60e94f5ced.res"
+path="res://.godot/imported/BlueprintTileset.ase-7b167a9def11b85286b62a3d68733e42.res"
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Tilesets/BlueprintTileset.ase"
-dest_files=["res://.godot/imported/BlueprintTileset.ase-a9c65922a39f8fa29cab9e60e94f5ced.res"]
+source_file="res://assets/PlatformerPrototypePack/Release/Tilesets/BlueprintTileset.ase"
+dest_files=["res://.godot/imported/BlueprintTileset.ase-7b167a9def11b85286b62a3d68733e42.res"]
 
 [params]
 

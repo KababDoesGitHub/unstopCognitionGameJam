@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0kj83dp8x6qj"
-path="res://.godot/imported/BlueprintTilesetLeftAngleLight.png-e22f6b291ec7c97e346da0471b37c0fd.ctex"
+path="res://.godot/imported/BlueprintTilesetLeftAngleLight.png-a7f32868b4cdb30321faba5e765074e7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Tilesets/LeftAngle/BlueprintTilesetLeftAngleLight.png"
-dest_files=["res://.godot/imported/BlueprintTilesetLeftAngleLight.png-e22f6b291ec7c97e346da0471b37c0fd.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Tilesets/LeftAngle/BlueprintTilesetLeftAngleLight.png"
+dest_files=["res://.godot/imported/BlueprintTilesetLeftAngleLight.png-a7f32868b4cdb30321faba5e765074e7.ctex"]
 
 [params]
 

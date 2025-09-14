@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cd6d7hvyml32k"
-path="res://.godot/imported/DoubleJump08.png-1e474b8887131b2bee95cb6cc4bffd25.ctex"
+path="res://.godot/imported/DoubleJump08.png-225448715940a70e4f432a51a6c059b4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/SpritesSeparated/DoubleJump/Torso/DoubleJump08.png"
-dest_files=["res://.godot/imported/DoubleJump08.png-1e474b8887131b2bee95cb6cc4bffd25.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/SpritesSeparated/DoubleJump/Torso/DoubleJump08.png"
+dest_files=["res://.godot/imported/DoubleJump08.png-225448715940a70e4f432a51a6c059b4.ctex"]
 
 [params]
 

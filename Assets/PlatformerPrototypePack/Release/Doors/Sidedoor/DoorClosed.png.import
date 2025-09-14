@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2g301xwiavhx"
-path="res://.godot/imported/DoorClosed.png-92c00efbf28c5465c45f141b805a15b3.ctex"
+path="res://.godot/imported/DoorClosed.png-3f6a9f817d74064b5be910e3dc05f176.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Doors/Sidedoor/DoorClosed.png"
-dest_files=["res://.godot/imported/DoorClosed.png-92c00efbf28c5465c45f141b805a15b3.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Doors/Sidedoor/DoorClosed.png"
+dest_files=["res://.godot/imported/DoorClosed.png-3f6a9f817d74064b5be910e3dc05f176.ctex"]
 
 [params]
 

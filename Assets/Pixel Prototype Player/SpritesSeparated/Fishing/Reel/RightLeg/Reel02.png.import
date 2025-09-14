@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dix1exw3bvf8m"
-path="res://.godot/imported/Reel02.png-e2c36b611ce177e0ea0f5e4acb467a1b.ctex"
+path="res://.godot/imported/Reel02.png-09edd4f459a3d8ebed648a404cae103e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Fishing/Reel/RightLeg/Reel02.png"
-dest_files=["res://.godot/imported/Reel02.png-e2c36b611ce177e0ea0f5e4acb467a1b.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Fishing/Reel/RightLeg/Reel02.png"
+dest_files=["res://.godot/imported/Reel02.png-09edd4f459a3d8ebed648a404cae103e.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5jl3m3hymykm"
-path="res://.godot/imported/Skateboard_SpinVertical.png-90e3c5996d02de384238a17b6d1fb960.ctex"
+path="res://.godot/imported/Skateboard_SpinVertical.png-ecda45633d8b35c7c84d19640c53ce20.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/Skateboard/Skateboard_SpinVertical.png"
-dest_files=["res://.godot/imported/Skateboard_SpinVertical.png-90e3c5996d02de384238a17b6d1fb960.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/Skateboard/Skateboard_SpinVertical.png"
+dest_files=["res://.godot/imported/Skateboard_SpinVertical.png-ecda45633d8b35c7c84d19640c53ce20.ctex"]
 
 [params]
 

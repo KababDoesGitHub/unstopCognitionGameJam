@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rhm3na2byqm1"
-path="res://.godot/imported/Vanish05.png-f7646b4a2b963944be14ac46e9b20fd5.ctex"
+path="res://.godot/imported/Vanish05.png-c1aec49a72dff60dbad1406a52fc93e3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/SpritesSeparated/Vanish/RightLeg/Vanish05.png"
-dest_files=["res://.godot/imported/Vanish05.png-f7646b4a2b963944be14ac46e9b20fd5.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/SpritesSeparated/Vanish/RightLeg/Vanish05.png"
+dest_files=["res://.godot/imported/Vanish05.png-c1aec49a72dff60dbad1406a52fc93e3.ctex"]
 
 [params]
 

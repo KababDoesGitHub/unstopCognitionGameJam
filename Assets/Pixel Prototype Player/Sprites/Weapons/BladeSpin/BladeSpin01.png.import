@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://peas3tgexs2j"
-path="res://.godot/imported/BladeSpin01.png-dd880d657676e78fef9c4e727db8d631.ctex"
+path="res://.godot/imported/BladeSpin01.png-624ab61b1b2899bbbea39a77bcf1abf5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/Sprites/Weapons/BladeSpin/BladeSpin01.png"
-dest_files=["res://.godot/imported/BladeSpin01.png-dd880d657676e78fef9c4e727db8d631.ctex"]
+source_file="res://assets/Pixel Prototype Player/Sprites/Weapons/BladeSpin/BladeSpin01.png"
+dest_files=["res://.godot/imported/BladeSpin01.png-624ab61b1b2899bbbea39a77bcf1abf5.ctex"]
 
 [params]
 

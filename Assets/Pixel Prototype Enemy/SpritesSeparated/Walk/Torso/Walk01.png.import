@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://doa4yrt2xpe60"
-path="res://.godot/imported/Walk01.png-3f083f3ff5b242021ce5c763323af5fd.ctex"
+path="res://.godot/imported/Walk01.png-649f9ae04d3ebd2aa46885c62ee141d3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/SpritesSeparated/Walk/Torso/Walk01.png"
-dest_files=["res://.godot/imported/Walk01.png-3f083f3ff5b242021ce5c763323af5fd.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/SpritesSeparated/Walk/Torso/Walk01.png"
+dest_files=["res://.godot/imported/Walk01.png-649f9ae04d3ebd2aa46885c62ee141d3.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kqpm8vf7cnm8"
-path="res://.godot/imported/Dash09.png-3fa9e49dec74fbfdc2a1077d0e9ae021.ctex"
+path="res://.godot/imported/Dash09.png-cfcef170718e99f3f475294394b07eb1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Dash/Torso/Dash09.png"
-dest_files=["res://.godot/imported/Dash09.png-3fa9e49dec74fbfdc2a1077d0e9ae021.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Dash/Torso/Dash09.png"
+dest_files=["res://.godot/imported/Dash09.png-cfcef170718e99f3f475294394b07eb1.ctex"]
 
 [params]
 

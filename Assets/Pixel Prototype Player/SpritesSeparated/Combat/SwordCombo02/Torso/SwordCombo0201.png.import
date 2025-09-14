@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://boivl0tat3gsc"
-path="res://.godot/imported/SwordCombo0201.png-8557e667311bf9536cd04556d12ea047.ctex"
+path="res://.godot/imported/SwordCombo0201.png-10ea097ba6f4ec14ef8198f48824cf4e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/SwordCombo02/Torso/SwordCombo0201.png"
-dest_files=["res://.godot/imported/SwordCombo0201.png-8557e667311bf9536cd04556d12ea047.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/SwordCombo02/Torso/SwordCombo0201.png"
+dest_files=["res://.godot/imported/SwordCombo0201.png-10ea097ba6f4ec14ef8198f48824cf4e.ctex"]
 
 [params]
 

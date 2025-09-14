@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://br50yarg5vbtr"
-path="res://.godot/imported/Punch0102.png-c68e61e524928c26b0f5393893e1413a.ctex"
+path="res://.godot/imported/Punch0102.png-3e27c79639b0c92e644cc6c0082d4ae1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/Punch01/Torso/Punch0102.png"
-dest_files=["res://.godot/imported/Punch0102.png-c68e61e524928c26b0f5393893e1413a.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/Punch01/Torso/Punch0102.png"
+dest_files=["res://.godot/imported/Punch0102.png-3e27c79639b0c92e644cc6c0082d4ae1.ctex"]
 
 [params]
 

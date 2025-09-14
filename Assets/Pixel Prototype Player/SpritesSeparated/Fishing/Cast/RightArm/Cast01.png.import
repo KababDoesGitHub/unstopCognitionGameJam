@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c76add5ttpdmr"
-path="res://.godot/imported/Cast01.png-e26a62c965daee1237e1ed59df1f0906.ctex"
+path="res://.godot/imported/Cast01.png-957fe10b8c0e6a645ed666cea7bbf422.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Fishing/Cast/RightArm/Cast01.png"
-dest_files=["res://.godot/imported/Cast01.png-e26a62c965daee1237e1ed59df1f0906.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Fishing/Cast/RightArm/Cast01.png"
+dest_files=["res://.godot/imported/Cast01.png-957fe10b8c0e6a645ed666cea7bbf422.ctex"]
 
 [params]
 

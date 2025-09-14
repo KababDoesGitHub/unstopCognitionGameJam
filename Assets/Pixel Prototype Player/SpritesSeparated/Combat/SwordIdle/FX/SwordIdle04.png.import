@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bx0078tl6kret"
-path="res://.godot/imported/SwordIdle04.png-d0f1143154e448ca2e67d7359b72e43e.ctex"
+path="res://.godot/imported/SwordIdle04.png-2148c54bf7b1f900ead388f8b61a9e66.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/SwordIdle/FX/SwordIdle04.png"
-dest_files=["res://.godot/imported/SwordIdle04.png-d0f1143154e448ca2e67d7359b72e43e.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/SwordIdle/FX/SwordIdle04.png"
+dest_files=["res://.godot/imported/SwordIdle04.png-2148c54bf7b1f900ead388f8b61a9e66.ctex"]
 
 [params]
 

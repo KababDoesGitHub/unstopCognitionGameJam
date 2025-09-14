@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dlaqc3o83id2m"
-path="res://.godot/imported/Charge02.png-b571c52a1c5723bea66952b967538d69.ctex"
+path="res://.godot/imported/Charge02.png-7df2c2ebc04f2b86bedba847e1450b95.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Fishing/Charge/Head/Charge02.png"
-dest_files=["res://.godot/imported/Charge02.png-b571c52a1c5723bea66952b967538d69.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Fishing/Charge/Head/Charge02.png"
+dest_files=["res://.godot/imported/Charge02.png-7df2c2ebc04f2b86bedba847e1450b95.ctex"]
 
 [params]
 

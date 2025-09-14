@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://e2ec4v4skevp"
-path="res://.godot/imported/Bird_Flying.png-52ea8acc489ab3d7acb772912af1b5e5.ctex"
+path="res://.godot/imported/Bird_Flying.png-42d17d96490854a6a3a1d41dcbf37623.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Characters/Bird/Bird_Flying.png"
-dest_files=["res://.godot/imported/Bird_Flying.png-52ea8acc489ab3d7acb772912af1b5e5.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Characters/Bird/Bird_Flying.png"
+dest_files=["res://.godot/imported/Bird_Flying.png-42d17d96490854a6a3a1d41dcbf37623.ctex"]
 
 [params]
 

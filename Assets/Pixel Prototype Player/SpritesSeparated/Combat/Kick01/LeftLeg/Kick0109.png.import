@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://coxy3528ukn6n"
-path="res://.godot/imported/Kick0109.png-70bdceae0127095aea01a12fecdcc004.ctex"
+path="res://.godot/imported/Kick0109.png-778be0c22d15a5685427c5b8e09176bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/Kick01/LeftLeg/Kick0109.png"
-dest_files=["res://.godot/imported/Kick0109.png-70bdceae0127095aea01a12fecdcc004.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/Kick01/LeftLeg/Kick0109.png"
+dest_files=["res://.godot/imported/Kick0109.png-778be0c22d15a5685427c5b8e09176bc.ctex"]
 
 [params]
 

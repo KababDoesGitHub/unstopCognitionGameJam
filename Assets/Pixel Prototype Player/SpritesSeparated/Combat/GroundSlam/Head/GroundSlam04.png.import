@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bu5httm0bh13v"
-path="res://.godot/imported/GroundSlam04.png-9fb5dbc1c03de2a9b716a595123763ff.ctex"
+path="res://.godot/imported/GroundSlam04.png-afe30a5a442e39df0bfe9a7e6c900192.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/GroundSlam/Head/GroundSlam04.png"
-dest_files=["res://.godot/imported/GroundSlam04.png-9fb5dbc1c03de2a9b716a595123763ff.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/GroundSlam/Head/GroundSlam04.png"
+dest_files=["res://.godot/imported/GroundSlam04.png-afe30a5a442e39df0bfe9a7e6c900192.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://c03fdbhs0ba7j"
-path="res://.godot/imported/CombatDummy.aseprite-8314a0d411959f6d339ff34b6c3017b1.res"
+path="res://.godot/imported/CombatDummy.aseprite-d1d4d9c00fec3cf4c93f1b10973abae6.res"
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/CombatDummy/CombatDummy.aseprite"
-dest_files=["res://.godot/imported/CombatDummy.aseprite-8314a0d411959f6d339ff34b6c3017b1.res"]
+source_file="res://assets/PlatformerPrototypePack/Release/CombatDummy/CombatDummy.aseprite"
+dest_files=["res://.godot/imported/CombatDummy.aseprite-d1d4d9c00fec3cf4c93f1b10973abae6.res"]
 
 [params]
 

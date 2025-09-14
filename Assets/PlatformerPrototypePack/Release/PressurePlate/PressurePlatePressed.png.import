@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbry6v4kun4ck"
-path="res://.godot/imported/PressurePlatePressed.png-481b0cfeda5e9c783757ce1ee44b7953.ctex"
+path="res://.godot/imported/PressurePlatePressed.png-dc67e49ef8a3524d3b6b274a061d2803.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/PressurePlate/PressurePlatePressed.png"
-dest_files=["res://.godot/imported/PressurePlatePressed.png-481b0cfeda5e9c783757ce1ee44b7953.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/PressurePlate/PressurePlatePressed.png"
+dest_files=["res://.godot/imported/PressurePlatePressed.png-dc67e49ef8a3524d3b6b274a061d2803.ctex"]
 
 [params]
 

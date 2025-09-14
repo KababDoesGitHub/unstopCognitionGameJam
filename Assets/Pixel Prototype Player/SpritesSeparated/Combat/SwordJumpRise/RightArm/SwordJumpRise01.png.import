@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmv0f7mkhi6lp"
-path="res://.godot/imported/SwordJumpRise01.png-02a0104b5942a7432ce65ee98464b22e.ctex"
+path="res://.godot/imported/SwordJumpRise01.png-96b373267024e8be1209b43e69dda56f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/SwordJumpRise/RightArm/SwordJumpRise01.png"
-dest_files=["res://.godot/imported/SwordJumpRise01.png-02a0104b5942a7432ce65ee98464b22e.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/SwordJumpRise/RightArm/SwordJumpRise01.png"
+dest_files=["res://.godot/imported/SwordJumpRise01.png-96b373267024e8be1209b43e69dda56f.ctex"]
 
 [params]
 

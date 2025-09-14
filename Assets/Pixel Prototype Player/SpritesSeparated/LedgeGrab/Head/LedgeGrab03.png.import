@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://f0fjx4usvllu"
-path="res://.godot/imported/LedgeGrab03.png-1f1821af295a9d8b61b441362449dcf2.ctex"
+path="res://.godot/imported/LedgeGrab03.png-4010265eaa477bf7925f6b0f658241c3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/LedgeGrab/Head/LedgeGrab03.png"
-dest_files=["res://.godot/imported/LedgeGrab03.png-1f1821af295a9d8b61b441362449dcf2.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/LedgeGrab/Head/LedgeGrab03.png"
+dest_files=["res://.godot/imported/LedgeGrab03.png-4010265eaa477bf7925f6b0f658241c3.ctex"]
 
 [params]
 

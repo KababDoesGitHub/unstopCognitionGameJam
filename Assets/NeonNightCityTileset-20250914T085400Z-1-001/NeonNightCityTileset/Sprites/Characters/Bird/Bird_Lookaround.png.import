@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ce8axc8n5x8mv"
-path="res://.godot/imported/Bird_Lookaround.png-7c823839315ab314133fe9b31e3958f4.ctex"
+path="res://.godot/imported/Bird_Lookaround.png-fa5cc749afb9ea2fe33c9d32a0fd2e3c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Characters/Bird/Bird_Lookaround.png"
-dest_files=["res://.godot/imported/Bird_Lookaround.png-7c823839315ab314133fe9b31e3958f4.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Characters/Bird/Bird_Lookaround.png"
+dest_files=["res://.godot/imported/Bird_Lookaround.png-fa5cc749afb9ea2fe33c9d32a0fd2e3c.ctex"]
 
 [params]
 

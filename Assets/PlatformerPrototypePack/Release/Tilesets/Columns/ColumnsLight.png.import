@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://di53tcobik6nq"
-path="res://.godot/imported/ColumnsLight.png-4a84fd836386c8b755dd7cd48b4bfee4.ctex"
+path="res://.godot/imported/ColumnsLight.png-98bce9b5936a15211d29e8635f9024d8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Tilesets/Columns/ColumnsLight.png"
-dest_files=["res://.godot/imported/ColumnsLight.png-4a84fd836386c8b755dd7cd48b4bfee4.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Tilesets/Columns/ColumnsLight.png"
+dest_files=["res://.godot/imported/ColumnsLight.png-98bce9b5936a15211d29e8635f9024d8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d3i5dhuj2dr4b"
-path="res://.godot/imported/Parry05.png-fa1fc989c97dd2bf7e8a1608c31aed54.ctex"
+path="res://.godot/imported/Parry05.png-c32161e75ea18f8129b8fc0da310d474.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/SpritesSeparated/Parry/RightLeg/Parry05.png"
-dest_files=["res://.godot/imported/Parry05.png-fa1fc989c97dd2bf7e8a1608c31aed54.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/SpritesSeparated/Parry/RightLeg/Parry05.png"
+dest_files=["res://.godot/imported/Parry05.png-c32161e75ea18f8129b8fc0da310d474.ctex"]
 
 [params]
 

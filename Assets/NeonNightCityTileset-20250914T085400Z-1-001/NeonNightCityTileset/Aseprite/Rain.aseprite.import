@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://dkpiiehyq4cys"
-path="res://.godot/imported/Rain.aseprite-de0cefce754ebac98a4476ce6593dc00.res"
+path="res://.godot/imported/Rain.aseprite-f47bf06a7abb9ff8bf146937d210ce31.res"
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Aseprite/Rain.aseprite"
-dest_files=["res://.godot/imported/Rain.aseprite-de0cefce754ebac98a4476ce6593dc00.res"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Aseprite/Rain.aseprite"
+dest_files=["res://.godot/imported/Rain.aseprite-f47bf06a7abb9ff8bf146937d210ce31.res"]
 
 [params]
 

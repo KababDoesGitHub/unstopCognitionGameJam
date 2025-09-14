@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ee8op3re67pi"
-path="res://.godot/imported/TrafficLight_CautionSingleOn.png-b3f1a8078e508ca567d14633e9b31533.ctex"
+path="res://.godot/imported/TrafficLight_CautionSingleOn.png-dee7388e00ef17cc7e7a64862ce9df04.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/TrafficLight/TrafficLight_CautionSingleOn.png"
-dest_files=["res://.godot/imported/TrafficLight_CautionSingleOn.png-b3f1a8078e508ca567d14633e9b31533.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/TrafficLight/TrafficLight_CautionSingleOn.png"
+dest_files=["res://.godot/imported/TrafficLight_CautionSingleOn.png-dee7388e00ef17cc7e7a64862ce9df04.ctex"]
 
 [params]
 

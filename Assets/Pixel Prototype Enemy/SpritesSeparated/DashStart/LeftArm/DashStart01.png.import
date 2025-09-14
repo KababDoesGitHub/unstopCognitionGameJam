@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wndkrdts8u8g"
-path="res://.godot/imported/DashStart01.png-d9e3281a38fd4cd06b735d7f481031ba.ctex"
+path="res://.godot/imported/DashStart01.png-8fbdfaaeca2ec7926b92dfa911e82313.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/SpritesSeparated/DashStart/LeftArm/DashStart01.png"
-dest_files=["res://.godot/imported/DashStart01.png-d9e3281a38fd4cd06b735d7f481031ba.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/SpritesSeparated/DashStart/LeftArm/DashStart01.png"
+dest_files=["res://.godot/imported/DashStart01.png-8fbdfaaeca2ec7926b92dfa911e82313.ctex"]
 
 [params]
 

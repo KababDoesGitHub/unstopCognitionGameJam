@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5ooax2ixm0dj"
-path="res://.godot/imported/Struggle03.png-fc70c452dc1fb88ccc7f946f412e3adf.ctex"
+path="res://.godot/imported/Struggle03.png-13b62c9a04a1e16042951b88723e7f85.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Fishing/Struggle/RightArm/Struggle03.png"
-dest_files=["res://.godot/imported/Struggle03.png-fc70c452dc1fb88ccc7f946f412e3adf.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Fishing/Struggle/RightArm/Struggle03.png"
+dest_files=["res://.godot/imported/Struggle03.png-13b62c9a04a1e16042951b88723e7f85.ctex"]
 
 [params]
 

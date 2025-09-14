@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://o42pk27ocar3"
-path="res://.godot/imported/PushIdle03.png-ef934066e45d0a781b15b4801e22d6d1.ctex"
+path="res://.godot/imported/PushIdle03.png-fa7497b075576b6f9980411aeb4ea8bb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/PushIdle/RightLeg/PushIdle03.png"
-dest_files=["res://.godot/imported/PushIdle03.png-ef934066e45d0a781b15b4801e22d6d1.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/PushIdle/RightLeg/PushIdle03.png"
+dest_files=["res://.godot/imported/PushIdle03.png-fa7497b075576b6f9980411aeb4ea8bb.ctex"]
 
 [params]
 

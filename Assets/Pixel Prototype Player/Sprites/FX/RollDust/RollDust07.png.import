@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpcg8k7a4dtpy"
-path="res://.godot/imported/RollDust07.png-519ae5b08189721a63f2b177c79bc190.ctex"
+path="res://.godot/imported/RollDust07.png-4646443b7158a710a1211322af032a3f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/Sprites/FX/RollDust/RollDust07.png"
-dest_files=["res://.godot/imported/RollDust07.png-519ae5b08189721a63f2b177c79bc190.ctex"]
+source_file="res://assets/Pixel Prototype Player/Sprites/FX/RollDust/RollDust07.png"
+dest_files=["res://.godot/imported/RollDust07.png-4646443b7158a710a1211322af032a3f.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ekcr1g60impu"
-path="res://.godot/imported/GroundAppear08.png-ee1d78de4a2badb9adf912b21163bc92.ctex"
+path="res://.godot/imported/GroundAppear08.png-2efcb3e51474da9fde9c3fd6a967f02a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/SpritesSeparated/GroundAppear/Torso/GroundAppear08.png"
-dest_files=["res://.godot/imported/GroundAppear08.png-ee1d78de4a2badb9adf912b21163bc92.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/SpritesSeparated/GroundAppear/Torso/GroundAppear08.png"
+dest_files=["res://.godot/imported/GroundAppear08.png-2efcb3e51474da9fde9c3fd6a967f02a.ctex"]
 
 [params]
 

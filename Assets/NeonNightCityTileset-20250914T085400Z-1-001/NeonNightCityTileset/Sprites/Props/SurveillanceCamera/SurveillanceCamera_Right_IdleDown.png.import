@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mt871ny5fwtr"
-path="res://.godot/imported/SurveillanceCamera_Right_IdleDown.png-15dda8070400a4314f99b5f78ec3342a.ctex"
+path="res://.godot/imported/SurveillanceCamera_Right_IdleDown.png-dc11c004abeb73a26c45d434f56b89b1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/SurveillanceCamera/SurveillanceCamera_Right_IdleDown.png"
-dest_files=["res://.godot/imported/SurveillanceCamera_Right_IdleDown.png-15dda8070400a4314f99b5f78ec3342a.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/SurveillanceCamera/SurveillanceCamera_Right_IdleDown.png"
+dest_files=["res://.godot/imported/SurveillanceCamera_Right_IdleDown.png-dc11c004abeb73a26c45d434f56b89b1.ctex"]
 
 [params]
 

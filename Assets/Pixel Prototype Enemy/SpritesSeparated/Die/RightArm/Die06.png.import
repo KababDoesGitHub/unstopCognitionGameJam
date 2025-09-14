@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fxxtiuwno7jw"
-path="res://.godot/imported/Die06.png-eb238cf60d60e79e34c05d0fd0ff7b3e.ctex"
+path="res://.godot/imported/Die06.png-87987adee4c9096e6eed4b36613faa3a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/SpritesSeparated/Die/RightArm/Die06.png"
-dest_files=["res://.godot/imported/Die06.png-eb238cf60d60e79e34c05d0fd0ff7b3e.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/SpritesSeparated/Die/RightArm/Die06.png"
+dest_files=["res://.godot/imported/Die06.png-87987adee4c9096e6eed4b36613faa3a.ctex"]
 
 [params]
 

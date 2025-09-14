@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4dexohbad0w"
-path="res://.godot/imported/DashLoop03.png-ad2da6eb5e263590a1d0bb71d4c385c2.ctex"
+path="res://.godot/imported/DashLoop03.png-d1e011c2420c63d369e05b6f784a0156.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/SpritesSeparated/DashLoop/Torso/DashLoop03.png"
-dest_files=["res://.godot/imported/DashLoop03.png-ad2da6eb5e263590a1d0bb71d4c385c2.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/SpritesSeparated/DashLoop/Torso/DashLoop03.png"
+dest_files=["res://.godot/imported/DashLoop03.png-d1e011c2420c63d369e05b6f784a0156.ctex"]
 
 [params]
 

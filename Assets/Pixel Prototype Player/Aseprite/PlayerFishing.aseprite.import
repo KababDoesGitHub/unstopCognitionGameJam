@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://ch5jn56ykxdiy"
-path="res://.godot/imported/PlayerFishing.aseprite-9e025ee6bda1f186807008670cd03c0a.res"
+path="res://.godot/imported/PlayerFishing.aseprite-537eff1ae29f98dea3684c5357b01f0f.res"
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/Aseprite/PlayerFishing.aseprite"
-dest_files=["res://.godot/imported/PlayerFishing.aseprite-9e025ee6bda1f186807008670cd03c0a.res"]
+source_file="res://assets/Pixel Prototype Player/Aseprite/PlayerFishing.aseprite"
+dest_files=["res://.godot/imported/PlayerFishing.aseprite-537eff1ae29f98dea3684c5357b01f0f.res"]
 
 [params]
 

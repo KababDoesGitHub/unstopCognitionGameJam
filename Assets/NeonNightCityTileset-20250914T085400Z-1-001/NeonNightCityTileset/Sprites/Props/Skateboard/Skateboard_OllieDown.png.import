@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxhvi0tylt64j"
-path="res://.godot/imported/Skateboard_OllieDown.png-dddc34bba27adb8efde9843d9824b48b.ctex"
+path="res://.godot/imported/Skateboard_OllieDown.png-869d29c3c898ee0cd488c4107bcee3c2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/Skateboard/Skateboard_OllieDown.png"
-dest_files=["res://.godot/imported/Skateboard_OllieDown.png-dddc34bba27adb8efde9843d9824b48b.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/Skateboard/Skateboard_OllieDown.png"
+dest_files=["res://.godot/imported/Skateboard_OllieDown.png-869d29c3c898ee0cd488c4107bcee3c2.ctex"]
 
 [params]
 

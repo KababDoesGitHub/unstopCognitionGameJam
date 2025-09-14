@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dl84t5m5vmy7b"
-path="res://.godot/imported/CrateDestroy.png-7eafbe750f9dfe61ecbe54630e0eaefb.ctex"
+path="res://.godot/imported/CrateDestroy.png-2dc99d20e9e5c267bcd34a42e27284ad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Crate/CrateDestroy.png"
-dest_files=["res://.godot/imported/CrateDestroy.png-7eafbe750f9dfe61ecbe54630e0eaefb.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Crate/CrateDestroy.png"
+dest_files=["res://.godot/imported/CrateDestroy.png-2dc99d20e9e5c267bcd34a42e27284ad.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c771y7neuutda"
-path="res://.godot/imported/LedgeHangDust03.png-68ca3747491ea24868d1ab9bb089dffa.ctex"
+path="res://.godot/imported/LedgeHangDust03.png-173a4fc74701b375e10b3793faeab345.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/Sprites/Effects/LedgeHangDust/LedgeHangDust03.png"
-dest_files=["res://.godot/imported/LedgeHangDust03.png-68ca3747491ea24868d1ab9bb089dffa.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/Sprites/Effects/LedgeHangDust/LedgeHangDust03.png"
+dest_files=["res://.godot/imported/LedgeHangDust03.png-173a4fc74701b375e10b3793faeab345.ctex"]
 
 [params]
 

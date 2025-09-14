@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://db71g8bx5pp3h"
-path="res://.godot/imported/SwordSlash0102.png-eaa60f98f134931578d995d45d060f95.ctex"
+path="res://.godot/imported/SwordSlash0102.png-1e62a022e7eae8d01f91222e0509541f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/SwordSlash01/LeftLeg/SwordSlash0102.png"
-dest_files=["res://.godot/imported/SwordSlash0102.png-eaa60f98f134931578d995d45d060f95.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/SwordSlash01/LeftLeg/SwordSlash0102.png"
+dest_files=["res://.godot/imported/SwordSlash0102.png-1e62a022e7eae8d01f91222e0509541f.ctex"]
 
 [params]
 

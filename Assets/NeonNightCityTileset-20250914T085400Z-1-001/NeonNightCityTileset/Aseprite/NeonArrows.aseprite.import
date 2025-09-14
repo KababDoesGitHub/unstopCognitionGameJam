@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://pngr46lkbgia"
-path="res://.godot/imported/NeonArrows.aseprite-d290dfe8164b3f60fe8cef6663299e5a.res"
+path="res://.godot/imported/NeonArrows.aseprite-a81f70149d90e9f20e5dd9539a694dff.res"
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Aseprite/NeonArrows.aseprite"
-dest_files=["res://.godot/imported/NeonArrows.aseprite-d290dfe8164b3f60fe8cef6663299e5a.res"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Aseprite/NeonArrows.aseprite"
+dest_files=["res://.godot/imported/NeonArrows.aseprite-a81f70149d90e9f20e5dd9539a694dff.res"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://ykargm8v43dd"
-path="res://.godot/imported/PlayerStatue.aseprite-d6e0156cc868e1fc052508d35fb43d64.res"
+path="res://.godot/imported/PlayerStatue.aseprite-76663a7ff147e6c141cd2067f068aa23.res"
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/PlayerStatue/PlayerStatue.aseprite"
-dest_files=["res://.godot/imported/PlayerStatue.aseprite-d6e0156cc868e1fc052508d35fb43d64.res"]
+source_file="res://assets/PlatformerPrototypePack/Release/PlayerStatue/PlayerStatue.aseprite"
+dest_files=["res://.godot/imported/PlayerStatue.aseprite-76663a7ff147e6c141cd2067f068aa23.res"]
 
 [params]
 

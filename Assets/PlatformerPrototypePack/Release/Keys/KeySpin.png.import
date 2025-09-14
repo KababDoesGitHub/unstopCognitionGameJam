@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bx0gt63e2ayaq"
-path="res://.godot/imported/KeySpin.png-b5bbb007c0377c9ea8d11123f3739b2b.ctex"
+path="res://.godot/imported/KeySpin.png-098bdf5dd8019f83ebaaa17a97d6239a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Keys/KeySpin.png"
-dest_files=["res://.godot/imported/KeySpin.png-b5bbb007c0377c9ea8d11123f3739b2b.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Keys/KeySpin.png"
+dest_files=["res://.godot/imported/KeySpin.png-098bdf5dd8019f83ebaaa17a97d6239a.ctex"]
 
 [params]
 

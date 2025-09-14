@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnugs54t2pm5p"
-path="res://.godot/imported/VendingMachines_Red_Hit.png-6606aeb4a63eb6ebd68873908511dbab.ctex"
+path="res://.godot/imported/VendingMachines_Red_Hit.png-fcba198134f5663334b12b69333ba844.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/VendingMachines/VendingMachines_Red_Hit.png"
-dest_files=["res://.godot/imported/VendingMachines_Red_Hit.png-6606aeb4a63eb6ebd68873908511dbab.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/VendingMachines/VendingMachines_Red_Hit.png"
+dest_files=["res://.godot/imported/VendingMachines_Red_Hit.png-fcba198134f5663334b12b69333ba844.ctex"]
 
 [params]
 

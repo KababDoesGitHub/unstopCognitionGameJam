@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ct1onxi48xs3g"
-path="res://.godot/imported/ShockLight01.png-7e1a23b1917b2c0afccfcd934d5cfd6b.ctex"
+path="res://.godot/imported/ShockLight01.png-a55f8d1fef2068f8c625226096550b5e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/ShockLight/Torso/ShockLight01.png"
-dest_files=["res://.godot/imported/ShockLight01.png-7e1a23b1917b2c0afccfcd934d5cfd6b.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/ShockLight/Torso/ShockLight01.png"
+dest_files=["res://.godot/imported/ShockLight01.png-a55f8d1fef2068f8c625226096550b5e.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpj4fb030uwxe"
-path="res://.godot/imported/Jump02.png-3d351eb330159444f29940384fff0b3c.ctex"
+path="res://.godot/imported/Jump02.png-148e2543dd00f8938644fdfc7194b96a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/SpritesSeparated/Jump/RightLeg/Jump02.png"
-dest_files=["res://.godot/imported/Jump02.png-3d351eb330159444f29940384fff0b3c.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/SpritesSeparated/Jump/RightLeg/Jump02.png"
+dest_files=["res://.godot/imported/Jump02.png-148e2543dd00f8938644fdfc7194b96a.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cuou6sbwuqld2"
-path="res://.godot/imported/GunReload04.png-f41711b0d0810387afc2e10353f49ad5.ctex"
+path="res://.godot/imported/GunReload04.png-176a574bb22447b21f2acb095e7e3eff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/GunReload/RightLeg/GunReload04.png"
-dest_files=["res://.godot/imported/GunReload04.png-f41711b0d0810387afc2e10353f49ad5.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/GunReload/RightLeg/GunReload04.png"
+dest_files=["res://.godot/imported/GunReload04.png-176a574bb22447b21f2acb095e7e3eff.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckokml55ge0v4"
-path="res://.godot/imported/BowAim04.png-67031a3204d18e868f00b6cd9761986a.ctex"
+path="res://.godot/imported/BowAim04.png-346f07ffbe250ed85c241b3bcba0e74a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/Sprites/Weapons/BowAim/BowAim04.png"
-dest_files=["res://.godot/imported/BowAim04.png-67031a3204d18e868f00b6cd9761986a.ctex"]
+source_file="res://assets/Pixel Prototype Player/Sprites/Weapons/BowAim/BowAim04.png"
+dest_files=["res://.godot/imported/BowAim04.png-346f07ffbe250ed85c241b3bcba0e74a.ctex"]
 
 [params]
 

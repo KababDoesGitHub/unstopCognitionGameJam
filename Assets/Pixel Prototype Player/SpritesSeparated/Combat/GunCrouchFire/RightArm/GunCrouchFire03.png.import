@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dm4ccj4hyph4m"
-path="res://.godot/imported/GunCrouchFire03.png-641dab362b07d70dc7da4a53decfb9d5.ctex"
+path="res://.godot/imported/GunCrouchFire03.png-7d81b020eff34f089fe84d9ca5696713.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/GunCrouchFire/RightArm/GunCrouchFire03.png"
-dest_files=["res://.godot/imported/GunCrouchFire03.png-641dab362b07d70dc7da4a53decfb9d5.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/GunCrouchFire/RightArm/GunCrouchFire03.png"
+dest_files=["res://.godot/imported/GunCrouchFire03.png-7d81b020eff34f089fe84d9ca5696713.ctex"]
 
 [params]
 

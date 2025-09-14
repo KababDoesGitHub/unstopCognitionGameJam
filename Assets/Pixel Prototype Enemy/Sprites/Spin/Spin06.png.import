@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bh2xd455n00cv"
-path="res://.godot/imported/Spin06.png-52bc1bd911b2e8a0fcab0f4744ee8bb1.ctex"
+path="res://.godot/imported/Spin06.png-24bf277faaf6a2538e40d5c7b8290811.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/Sprites/Spin/Spin06.png"
-dest_files=["res://.godot/imported/Spin06.png-52bc1bd911b2e8a0fcab0f4744ee8bb1.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/Sprites/Spin/Spin06.png"
+dest_files=["res://.godot/imported/Spin06.png-24bf277faaf6a2538e40d5c7b8290811.ctex"]
 
 [params]
 

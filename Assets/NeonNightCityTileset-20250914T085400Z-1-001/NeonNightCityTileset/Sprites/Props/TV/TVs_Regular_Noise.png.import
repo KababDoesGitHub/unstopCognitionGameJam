@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://df5wmdvxeyugy"
-path="res://.godot/imported/TVs_Regular_Noise.png-13e3d26f1dec05113c3fdede8a8700f6.ctex"
+path="res://.godot/imported/TVs_Regular_Noise.png-7b3a7e812bafbf8c8e7f398bbf493520.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/TV/TVs_Regular_Noise.png"
-dest_files=["res://.godot/imported/TVs_Regular_Noise.png-13e3d26f1dec05113c3fdede8a8700f6.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/TV/TVs_Regular_Noise.png"
+dest_files=["res://.godot/imported/TVs_Regular_Noise.png-7b3a7e812bafbf8c8e7f398bbf493520.ctex"]
 
 [params]
 

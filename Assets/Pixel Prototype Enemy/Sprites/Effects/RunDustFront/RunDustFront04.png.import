@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2k441i671hrd"
-path="res://.godot/imported/RunDustFront04.png-ff93983807b2907b64d094d5f25ebdf9.ctex"
+path="res://.godot/imported/RunDustFront04.png-f420c1b33fd21510c278ee5e70331bc9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/Sprites/Effects/RunDustFront/RunDustFront04.png"
-dest_files=["res://.godot/imported/RunDustFront04.png-ff93983807b2907b64d094d5f25ebdf9.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/Sprites/Effects/RunDustFront/RunDustFront04.png"
+dest_files=["res://.godot/imported/RunDustFront04.png-f420c1b33fd21510c278ee5e70331bc9.ctex"]
 
 [params]
 

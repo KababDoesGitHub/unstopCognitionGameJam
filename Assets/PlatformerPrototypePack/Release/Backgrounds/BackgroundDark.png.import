@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1mkd262ifxq4"
-path="res://.godot/imported/BackgroundDark.png-6e0f51bedf1a07a322c53690d1aa3ae2.ctex"
+path="res://.godot/imported/BackgroundDark.png-8a0f54d9c915ebab70731f8cd32583eb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Backgrounds/BackgroundDark.png"
-dest_files=["res://.godot/imported/BackgroundDark.png-6e0f51bedf1a07a322c53690d1aa3ae2.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Backgrounds/BackgroundDark.png"
+dest_files=["res://.godot/imported/BackgroundDark.png-8a0f54d9c915ebab70731f8cd32583eb.ctex"]
 
 [params]
 

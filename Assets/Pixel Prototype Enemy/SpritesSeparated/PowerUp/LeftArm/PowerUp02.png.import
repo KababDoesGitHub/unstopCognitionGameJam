@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7npxcplte56p"
-path="res://.godot/imported/PowerUp02.png-d6fd200cd5c0bbfbcad8e2edcc4c1334.ctex"
+path="res://.godot/imported/PowerUp02.png-a7a607e82e6371e4d4573ad36466d77c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/SpritesSeparated/PowerUp/LeftArm/PowerUp02.png"
-dest_files=["res://.godot/imported/PowerUp02.png-d6fd200cd5c0bbfbcad8e2edcc4c1334.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/SpritesSeparated/PowerUp/LeftArm/PowerUp02.png"
+dest_files=["res://.godot/imported/PowerUp02.png-a7a607e82e6371e4d4573ad36466d77c.ctex"]
 
 [params]
 

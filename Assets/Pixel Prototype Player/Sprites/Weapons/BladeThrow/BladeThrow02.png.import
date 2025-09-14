@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bd52hawxhj1mh"
-path="res://.godot/imported/BladeThrow02.png-1402ec8eeec6c57d17e2e36c4d8775ec.ctex"
+path="res://.godot/imported/BladeThrow02.png-a3e72934629d06a28abccc9b88df7bd7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/Sprites/Weapons/BladeThrow/BladeThrow02.png"
-dest_files=["res://.godot/imported/BladeThrow02.png-1402ec8eeec6c57d17e2e36c4d8775ec.ctex"]
+source_file="res://assets/Pixel Prototype Player/Sprites/Weapons/BladeThrow/BladeThrow02.png"
+dest_files=["res://.godot/imported/BladeThrow02.png-a3e72934629d06a28abccc9b88df7bd7.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://b38t8ipyxioj2"
-path="res://.godot/imported/Laser.aseprite-c3cf3a72eded61bed6f2edaabdf83129.res"
+path="res://.godot/imported/Laser.aseprite-aca120f4cd6087734b333e2213ad9240.res"
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Laser/Laser.aseprite"
-dest_files=["res://.godot/imported/Laser.aseprite-c3cf3a72eded61bed6f2edaabdf83129.res"]
+source_file="res://assets/PlatformerPrototypePack/Release/Laser/Laser.aseprite"
+dest_files=["res://.godot/imported/Laser.aseprite-aca120f4cd6087734b333e2213ad9240.res"]
 
 [params]
 

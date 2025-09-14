@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://17crd4ur6y7"
-path="res://.godot/imported/CoinSpin.png-c475f2cf1bc22f9a74558e1d5a2a78be.ctex"
+path="res://.godot/imported/CoinSpin.png-75b859dd9a36258152be53158b827f11.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Collectables/Coins/CoinSpin.png"
-dest_files=["res://.godot/imported/CoinSpin.png-c475f2cf1bc22f9a74558e1d5a2a78be.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Collectables/Coins/CoinSpin.png"
+dest_files=["res://.godot/imported/CoinSpin.png-75b859dd9a36258152be53158b827f11.ctex"]
 
 [params]
 

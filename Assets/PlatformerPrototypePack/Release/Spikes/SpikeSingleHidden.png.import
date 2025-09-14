@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://de28uv05aawa3"
-path="res://.godot/imported/SpikeSingleHidden.png-82d5e47a5a665fd5aa598a8ef6774969.ctex"
+path="res://.godot/imported/SpikeSingleHidden.png-f862e1e516600ca70477f686a0796554.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Spikes/SpikeSingleHidden.png"
-dest_files=["res://.godot/imported/SpikeSingleHidden.png-82d5e47a5a665fd5aa598a8ef6774969.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Spikes/SpikeSingleHidden.png"
+dest_files=["res://.godot/imported/SpikeSingleHidden.png-f862e1e516600ca70477f686a0796554.ctex"]
 
 [params]
 

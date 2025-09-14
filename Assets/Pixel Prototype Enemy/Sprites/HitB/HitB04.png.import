@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cas7fgucgh5bk"
-path="res://.godot/imported/HitB04.png-26a532ba3a44572e1b844ca2ce7097af.ctex"
+path="res://.godot/imported/HitB04.png-7d52497c716b50457e6d56473396586a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/Sprites/HitB/HitB04.png"
-dest_files=["res://.godot/imported/HitB04.png-26a532ba3a44572e1b844ca2ce7097af.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/Sprites/HitB/HitB04.png"
+dest_files=["res://.godot/imported/HitB04.png-7d52497c716b50457e6d56473396586a.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8ojev1r7ijnp"
-path="res://.godot/imported/InteractionPull05.png-100f54c2647845ef9ae24df037a458ac.ctex"
+path="res://.godot/imported/InteractionPull05.png-03a2ef04aed0084c77253ddd61f869ad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/InteractionPull/RightArm/InteractionPull05.png"
-dest_files=["res://.godot/imported/InteractionPull05.png-100f54c2647845ef9ae24df037a458ac.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/InteractionPull/RightArm/InteractionPull05.png"
+dest_files=["res://.godot/imported/InteractionPull05.png-03a2ef04aed0084c77253ddd61f869ad.ctex"]
 
 [params]
 

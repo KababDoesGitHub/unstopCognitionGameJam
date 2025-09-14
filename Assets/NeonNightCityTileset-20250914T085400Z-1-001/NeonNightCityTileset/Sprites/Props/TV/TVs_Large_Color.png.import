@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnqdlcrufjciy"
-path="res://.godot/imported/TVs_Large_Color.png-2b6c6e431dedec53dfa559baa05900c0.ctex"
+path="res://.godot/imported/TVs_Large_Color.png-3eae71622fff55224eb29b194ab3d82b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/TV/TVs_Large_Color.png"
-dest_files=["res://.godot/imported/TVs_Large_Color.png-2b6c6e431dedec53dfa559baa05900c0.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/TV/TVs_Large_Color.png"
+dest_files=["res://.godot/imported/TVs_Large_Color.png-3eae71622fff55224eb29b194ab3d82b.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxwovvuxxksfn"
-path="res://.godot/imported/SwordRun02.png-fcabcf9f634467334f0abb17bee0b491.ctex"
+path="res://.godot/imported/SwordRun02.png-f36f9d0ce761217991e4defb4f84946b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/SwordRun/LeftLeg/SwordRun02.png"
-dest_files=["res://.godot/imported/SwordRun02.png-fcabcf9f634467334f0abb17bee0b491.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/SwordRun/LeftLeg/SwordRun02.png"
+dest_files=["res://.godot/imported/SwordRun02.png-f36f9d0ce761217991e4defb4f84946b.ctex"]
 
 [params]
 

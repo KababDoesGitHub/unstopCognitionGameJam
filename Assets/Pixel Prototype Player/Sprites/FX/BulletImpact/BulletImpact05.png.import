@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b11vuuarcct1p"
-path="res://.godot/imported/BulletImpact05.png-72a93871b6c0fa0801e417f1548dbeee.ctex"
+path="res://.godot/imported/BulletImpact05.png-94414613c1837ea6a827f82847871790.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/Sprites/FX/BulletImpact/BulletImpact05.png"
-dest_files=["res://.godot/imported/BulletImpact05.png-72a93871b6c0fa0801e417f1548dbeee.ctex"]
+source_file="res://assets/Pixel Prototype Player/Sprites/FX/BulletImpact/BulletImpact05.png"
+dest_files=["res://.godot/imported/BulletImpact05.png-94414613c1837ea6a827f82847871790.ctex"]
 
 [params]
 

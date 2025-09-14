@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cjlimrccobseb"
-path="res://.godot/imported/LookUp07.png-4d77a798d45b279f33d75537bfc654a4.ctex"
+path="res://.godot/imported/LookUp07.png-4ee4787d3d23897ee0a0eed666ccaeaf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/SpritesSeparated/LookUp/LeftArm/LookUp07.png"
-dest_files=["res://.godot/imported/LookUp07.png-4d77a798d45b279f33d75537bfc654a4.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/SpritesSeparated/LookUp/LeftArm/LookUp07.png"
+dest_files=["res://.godot/imported/LookUp07.png-4ee4787d3d23897ee0a0eed666ccaeaf.ctex"]
 
 [params]
 

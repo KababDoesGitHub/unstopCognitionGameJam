@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djqm5jqwyy8fx"
-path="res://.godot/imported/TrafficLight_HorizontalGo.png-d2b36d62878aa70f766b13198e75bb6c.ctex"
+path="res://.godot/imported/TrafficLight_HorizontalGo.png-889d91be8bcdfb60b937be14ab1c40b6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/TrafficLight/TrafficLight_HorizontalGo.png"
-dest_files=["res://.godot/imported/TrafficLight_HorizontalGo.png-d2b36d62878aa70f766b13198e75bb6c.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/TrafficLight/TrafficLight_HorizontalGo.png"
+dest_files=["res://.godot/imported/TrafficLight_HorizontalGo.png-889d91be8bcdfb60b937be14ab1c40b6.ctex"]
 
 [params]
 

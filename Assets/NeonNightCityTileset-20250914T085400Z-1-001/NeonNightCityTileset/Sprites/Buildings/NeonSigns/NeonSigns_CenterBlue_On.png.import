@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://br4dp5xlspgux"
-path="res://.godot/imported/NeonSigns_CenterBlue_On.png-cca7605c468521ec9b21198a37c11198.ctex"
+path="res://.godot/imported/NeonSigns_CenterBlue_On.png-6135cfdbbea64d237727c87d4fab150a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Buildings/NeonSigns/NeonSigns_CenterBlue_On.png"
-dest_files=["res://.godot/imported/NeonSigns_CenterBlue_On.png-cca7605c468521ec9b21198a37c11198.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Buildings/NeonSigns/NeonSigns_CenterBlue_On.png"
+dest_files=["res://.godot/imported/NeonSigns_CenterBlue_On.png-6135cfdbbea64d237727c87d4fab150a.ctex"]
 
 [params]
 

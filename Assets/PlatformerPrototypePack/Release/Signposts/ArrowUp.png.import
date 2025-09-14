@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://crd83xt5h2ijl"
-path="res://.godot/imported/ArrowUp.png-af526a20515405aa376c473cb9ff5bd3.ctex"
+path="res://.godot/imported/ArrowUp.png-fded0c33ff13fe2794374a3d8fc4bc53.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Signposts/ArrowUp.png"
-dest_files=["res://.godot/imported/ArrowUp.png-af526a20515405aa376c473cb9ff5bd3.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Signposts/ArrowUp.png"
+dest_files=["res://.godot/imported/ArrowUp.png-fded0c33ff13fe2794374a3d8fc4bc53.ctex"]
 
 [params]
 

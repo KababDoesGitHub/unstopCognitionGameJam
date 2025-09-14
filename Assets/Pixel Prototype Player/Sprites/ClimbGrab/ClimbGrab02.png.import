@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxy821elrfof4"
-path="res://.godot/imported/ClimbGrab02.png-440cfe5c5af92d50c5fd84d05e26f8cf.ctex"
+path="res://.godot/imported/ClimbGrab02.png-b3beb916af4f950e2d4384c40e7885bf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/Sprites/ClimbGrab/ClimbGrab02.png"
-dest_files=["res://.godot/imported/ClimbGrab02.png-440cfe5c5af92d50c5fd84d05e26f8cf.ctex"]
+source_file="res://assets/Pixel Prototype Player/Sprites/ClimbGrab/ClimbGrab02.png"
+dest_files=["res://.godot/imported/ClimbGrab02.png-b3beb916af4f950e2d4384c40e7885bf.ctex"]
 
 [params]
 

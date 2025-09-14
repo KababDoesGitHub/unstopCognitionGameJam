@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jgd7l6r7d1o3"
-path="res://.godot/imported/BladeWallImpact05.png-89f53cde6030dd0817d418d4a6492c23.ctex"
+path="res://.godot/imported/BladeWallImpact05.png-653d97bb567dfc52a4dec4a82ae9a8c7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/Sprites/Weapons/BladeWallImpact/BladeWallImpact05.png"
-dest_files=["res://.godot/imported/BladeWallImpact05.png-89f53cde6030dd0817d418d4a6492c23.ctex"]
+source_file="res://assets/Pixel Prototype Player/Sprites/Weapons/BladeWallImpact/BladeWallImpact05.png"
+dest_files=["res://.godot/imported/BladeWallImpact05.png-653d97bb567dfc52a4dec4a82ae9a8c7.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsvtt5yp88mhy"
-path="res://.godot/imported/BlastCharge05.png-54f7da76211c8ad6f9067a3c2a72bad0.ctex"
+path="res://.godot/imported/BlastCharge05.png-a0a394903495e8a859e657e65d008f6f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/SpritesSeparated/BlastCharge/Effects/BlastCharge05.png"
-dest_files=["res://.godot/imported/BlastCharge05.png-54f7da76211c8ad6f9067a3c2a72bad0.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/SpritesSeparated/BlastCharge/Effects/BlastCharge05.png"
+dest_files=["res://.godot/imported/BlastCharge05.png-a0a394903495e8a859e657e65d008f6f.ctex"]
 
 [params]
 

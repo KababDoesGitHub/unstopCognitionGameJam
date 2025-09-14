@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cuwkreqw2cu1c"
-path="res://.godot/imported/MechanicalDoorOpened.png-c4636e022f5c690b5dfeade5c9a502d8.ctex"
+path="res://.godot/imported/MechanicalDoorOpened.png-68cd9edc8a30626ab09e873266d358ee.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Doors/MechanicalDoor/MechanicalDoorOpened.png"
-dest_files=["res://.godot/imported/MechanicalDoorOpened.png-c4636e022f5c690b5dfeade5c9a502d8.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Doors/MechanicalDoor/MechanicalDoorOpened.png"
+dest_files=["res://.godot/imported/MechanicalDoorOpened.png-68cd9edc8a30626ab09e873266d358ee.ctex"]
 
 [params]
 

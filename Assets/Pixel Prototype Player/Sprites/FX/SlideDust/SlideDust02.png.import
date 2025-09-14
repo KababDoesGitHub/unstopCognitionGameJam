@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lqpm3ypkyiwp"
-path="res://.godot/imported/SlideDust02.png-08896267bf13ff24df439979431128b6.ctex"
+path="res://.godot/imported/SlideDust02.png-dc5d108b54428253b4ac2404f39f646e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/Sprites/FX/SlideDust/SlideDust02.png"
-dest_files=["res://.godot/imported/SlideDust02.png-08896267bf13ff24df439979431128b6.ctex"]
+source_file="res://assets/Pixel Prototype Player/Sprites/FX/SlideDust/SlideDust02.png"
+dest_files=["res://.godot/imported/SlideDust02.png-dc5d108b54428253b4ac2404f39f646e.ctex"]
 
 [params]
 

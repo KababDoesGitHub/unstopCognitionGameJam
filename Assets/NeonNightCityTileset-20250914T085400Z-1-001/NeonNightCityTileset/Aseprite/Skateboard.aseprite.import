@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://df60b8uoyg3do"
-path="res://.godot/imported/Skateboard.aseprite-75023c3d569bdff31eecdf2780422be1.res"
+path="res://.godot/imported/Skateboard.aseprite-24a08b84178d1b7f1bc2bfbd01ea0870.res"
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Aseprite/Skateboard.aseprite"
-dest_files=["res://.godot/imported/Skateboard.aseprite-75023c3d569bdff31eecdf2780422be1.res"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Aseprite/Skateboard.aseprite"
+dest_files=["res://.godot/imported/Skateboard.aseprite-24a08b84178d1b7f1bc2bfbd01ea0870.res"]
 
 [params]
 

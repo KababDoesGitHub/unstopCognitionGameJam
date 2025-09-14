@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsje6wcon8ey3"
-path="res://.godot/imported/Roll03.png-3e1d8d337cbddb6ab0656c0de5cac93b.ctex"
+path="res://.godot/imported/Roll03.png-c78998c9a81f858956d456997dfc36a5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Roll/LeftArm/Roll03.png"
-dest_files=["res://.godot/imported/Roll03.png-3e1d8d337cbddb6ab0656c0de5cac93b.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Roll/LeftArm/Roll03.png"
+dest_files=["res://.godot/imported/Roll03.png-c78998c9a81f858956d456997dfc36a5.ctex"]
 
 [params]
 

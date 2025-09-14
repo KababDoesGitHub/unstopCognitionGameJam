@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dx76df1wgkkv4"
-path="res://.godot/imported/AirSlashUp01.png-23555a57c0d2b325774ba06576839453.ctex"
+path="res://.godot/imported/AirSlashUp01.png-d52dd9c1104796c92f3ef8cf18fcaa9f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/AirSlashUp/RightArm/AirSlashUp01.png"
-dest_files=["res://.godot/imported/AirSlashUp01.png-23555a57c0d2b325774ba06576839453.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/AirSlashUp/RightArm/AirSlashUp01.png"
+dest_files=["res://.godot/imported/AirSlashUp01.png-d52dd9c1104796c92f3ef8cf18fcaa9f.ctex"]
 
 [params]
 

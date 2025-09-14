@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://oghv23vxglj7"
-path="res://.godot/imported/CircularSaw.aseprite-715249b7fbaf34e243c040707c1a164f.res"
+path="res://.godot/imported/CircularSaw.aseprite-32f9cb50e42d10663bcff965b631b0d6.res"
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Saws/CircularSaw.aseprite"
-dest_files=["res://.godot/imported/CircularSaw.aseprite-715249b7fbaf34e243c040707c1a164f.res"]
+source_file="res://assets/PlatformerPrototypePack/Release/Saws/CircularSaw.aseprite"
+dest_files=["res://.godot/imported/CircularSaw.aseprite-32f9cb50e42d10663bcff965b631b0d6.res"]
 
 [params]
 

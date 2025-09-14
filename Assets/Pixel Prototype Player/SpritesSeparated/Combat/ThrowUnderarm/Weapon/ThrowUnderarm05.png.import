@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxuldypvnfh6o"
-path="res://.godot/imported/ThrowUnderarm05.png-9bbc9a11fd10b3666c2b18b1d3bbd12f.ctex"
+path="res://.godot/imported/ThrowUnderarm05.png-d1c20b85f048932c4aabdf7f809be560.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/ThrowUnderarm/Weapon/ThrowUnderarm05.png"
-dest_files=["res://.godot/imported/ThrowUnderarm05.png-9bbc9a11fd10b3666c2b18b1d3bbd12f.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/ThrowUnderarm/Weapon/ThrowUnderarm05.png"
+dest_files=["res://.godot/imported/ThrowUnderarm05.png-d1c20b85f048932c4aabdf7f809be560.ctex"]
 
 [params]
 

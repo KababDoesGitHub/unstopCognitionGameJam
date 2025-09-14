@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cc8unp2v5jvuv"
-path="res://.godot/imported/LedgeClimb05.png-5fb7986280f54b3fb2acb973ed8b8f85.ctex"
+path="res://.godot/imported/LedgeClimb05.png-aad909b69294510ce241d5a67af0af29.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/LedgeClimb/RightArm/LedgeClimb05.png"
-dest_files=["res://.godot/imported/LedgeClimb05.png-5fb7986280f54b3fb2acb973ed8b8f85.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/LedgeClimb/RightArm/LedgeClimb05.png"
+dest_files=["res://.godot/imported/LedgeClimb05.png-aad909b69294510ce241d5a67af0af29.ctex"]
 
 [params]
 

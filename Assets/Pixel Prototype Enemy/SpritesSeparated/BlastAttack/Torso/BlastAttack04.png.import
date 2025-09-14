@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbfy20w1bqdxy"
-path="res://.godot/imported/BlastAttack04.png-dfb295e03c87931da67690508e1ba48c.ctex"
+path="res://.godot/imported/BlastAttack04.png-76cc6bc1f29d180e936f68d7c0acb04e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/SpritesSeparated/BlastAttack/Torso/BlastAttack04.png"
-dest_files=["res://.godot/imported/BlastAttack04.png-dfb295e03c87931da67690508e1ba48c.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/SpritesSeparated/BlastAttack/Torso/BlastAttack04.png"
+dest_files=["res://.godot/imported/BlastAttack04.png-76cc6bc1f29d180e936f68d7c0acb04e.ctex"]
 
 [params]
 

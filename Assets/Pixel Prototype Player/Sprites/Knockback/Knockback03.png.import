@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cifvkqr3cnj8k"
-path="res://.godot/imported/Knockback03.png-ef2b77188d4ba007d411df5f810f8bb3.ctex"
+path="res://.godot/imported/Knockback03.png-186028f25e94fa6fb46f59824b2b26a5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/Sprites/Knockback/Knockback03.png"
-dest_files=["res://.godot/imported/Knockback03.png-ef2b77188d4ba007d411df5f810f8bb3.ctex"]
+source_file="res://assets/Pixel Prototype Player/Sprites/Knockback/Knockback03.png"
+dest_files=["res://.godot/imported/Knockback03.png-186028f25e94fa6fb46f59824b2b26a5.ctex"]
 
 [params]
 

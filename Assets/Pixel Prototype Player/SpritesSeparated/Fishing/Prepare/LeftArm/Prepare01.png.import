@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xuuqs1ivi1p2"
-path="res://.godot/imported/Prepare01.png-16f3342cb119b2983a54c3c15af81346.ctex"
+path="res://.godot/imported/Prepare01.png-a65d79c21793f1bcc51a408ccf2c1b71.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Fishing/Prepare/LeftArm/Prepare01.png"
-dest_files=["res://.godot/imported/Prepare01.png-16f3342cb119b2983a54c3c15af81346.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Fishing/Prepare/LeftArm/Prepare01.png"
+dest_files=["res://.godot/imported/Prepare01.png-a65d79c21793f1bcc51a408ccf2c1b71.ctex"]
 
 [params]
 

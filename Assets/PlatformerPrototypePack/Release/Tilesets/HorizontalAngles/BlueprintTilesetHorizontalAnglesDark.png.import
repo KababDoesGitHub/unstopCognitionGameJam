@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dol7yp5jg6j5q"
-path="res://.godot/imported/BlueprintTilesetHorizontalAnglesDark.png-8a940c8eb1020cdc1ccb65b52ac435e8.ctex"
+path="res://.godot/imported/BlueprintTilesetHorizontalAnglesDark.png-99d647f00a9486e72bb07376342a33c1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Tilesets/HorizontalAngles/BlueprintTilesetHorizontalAnglesDark.png"
-dest_files=["res://.godot/imported/BlueprintTilesetHorizontalAnglesDark.png-8a940c8eb1020cdc1ccb65b52ac435e8.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Tilesets/HorizontalAngles/BlueprintTilesetHorizontalAnglesDark.png"
+dest_files=["res://.godot/imported/BlueprintTilesetHorizontalAnglesDark.png-99d647f00a9486e72bb07376342a33c1.ctex"]
 
 [params]
 

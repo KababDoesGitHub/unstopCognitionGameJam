@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxpvrfle6x4py"
-path="res://.godot/imported/CombatDummyDamageLight.png-b5adf30c53b7c9210b7c7d2bea961be3.ctex"
+path="res://.godot/imported/CombatDummyDamageLight.png-f0144c63b41574d3fb8f7fc4da6131f0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/CombatDummy/CombatDummyDamageLight.png"
-dest_files=["res://.godot/imported/CombatDummyDamageLight.png-b5adf30c53b7c9210b7c7d2bea961be3.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/CombatDummy/CombatDummyDamageLight.png"
+dest_files=["res://.godot/imported/CombatDummyDamageLight.png-f0144c63b41574d3fb8f7fc4da6131f0.ctex"]
 
 [params]
 

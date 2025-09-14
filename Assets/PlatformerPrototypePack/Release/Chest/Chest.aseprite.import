@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://bddewv4whji41"
-path="res://.godot/imported/Chest.aseprite-e48fa1fae19870c596e0a0e335284caa.res"
+path="res://.godot/imported/Chest.aseprite-dcb51bf7d943f05288b294ef5846232b.res"
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Chest/Chest.aseprite"
-dest_files=["res://.godot/imported/Chest.aseprite-e48fa1fae19870c596e0a0e335284caa.res"]
+source_file="res://assets/PlatformerPrototypePack/Release/Chest/Chest.aseprite"
+dest_files=["res://.godot/imported/Chest.aseprite-dcb51bf7d943f05288b294ef5846232b.res"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6k1n2w25g06u"
-path="res://.godot/imported/TrafficLight_HorizontalCaution.png-411804280da5ed270272edfe2d7619f0.ctex"
+path="res://.godot/imported/TrafficLight_HorizontalCaution.png-50d1914e0790b6755e8d85b905c1e650.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/TrafficLight/TrafficLight_HorizontalCaution.png"
-dest_files=["res://.godot/imported/TrafficLight_HorizontalCaution.png-411804280da5ed270272edfe2d7619f0.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Props/TrafficLight/TrafficLight_HorizontalCaution.png"
+dest_files=["res://.godot/imported/TrafficLight_HorizontalCaution.png-50d1914e0790b6755e8d85b905c1e650.ctex"]
 
 [params]
 

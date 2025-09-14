@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qxqjjb10gu4y"
-path="res://.godot/imported/LandingDust06.png-ffec53919f70955381f082bc82241976.ctex"
+path="res://.godot/imported/LandingDust06.png-033cfc16054a27b5c99d41c65dba4dbe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/Sprites/FX/LandingDust/LandingDust06.png"
-dest_files=["res://.godot/imported/LandingDust06.png-ffec53919f70955381f082bc82241976.ctex"]
+source_file="res://assets/Pixel Prototype Player/Sprites/FX/LandingDust/LandingDust06.png"
+dest_files=["res://.godot/imported/LandingDust06.png-033cfc16054a27b5c99d41c65dba4dbe.ctex"]
 
 [params]
 

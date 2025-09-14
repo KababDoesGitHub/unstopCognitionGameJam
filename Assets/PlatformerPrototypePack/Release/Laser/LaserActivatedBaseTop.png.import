@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxulo1kryt807"
-path="res://.godot/imported/LaserActivatedBaseTop.png-59465f2cefbeceaed43a29566cda8432.ctex"
+path="res://.godot/imported/LaserActivatedBaseTop.png-bc477e8a4775c43e8e59d76b6b0d0d3b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Laser/LaserActivatedBaseTop.png"
-dest_files=["res://.godot/imported/LaserActivatedBaseTop.png-59465f2cefbeceaed43a29566cda8432.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Laser/LaserActivatedBaseTop.png"
+dest_files=["res://.godot/imported/LaserActivatedBaseTop.png-bc477e8a4775c43e8e59d76b6b0d0d3b.ctex"]
 
 [params]
 

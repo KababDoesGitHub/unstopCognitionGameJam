@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://dklk1y0sm1aa1"
-path="res://.godot/imported/Signs.aseprite-70e2726bc4f4b4cc4ddc9a0826bad89c.res"
+path="res://.godot/imported/Signs.aseprite-41ee72c968f7ac0d4f9bdbca6594fffb.res"
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Aseprite/Signs.aseprite"
-dest_files=["res://.godot/imported/Signs.aseprite-70e2726bc4f4b4cc4ddc9a0826bad89c.res"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Aseprite/Signs.aseprite"
+dest_files=["res://.godot/imported/Signs.aseprite-41ee72c968f7ac0d4f9bdbca6594fffb.res"]
 
 [params]
 

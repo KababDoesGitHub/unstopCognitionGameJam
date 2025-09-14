@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5obgvhxj1bvv"
-path="res://.godot/imported/NeonSigns_TitlePizza_On.png-cbea2ce7eb5c559c926706972105d4b3.ctex"
+path="res://.godot/imported/NeonSigns_TitlePizza_On.png-7507aaf7384f9808246b390882b5663a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Buildings/NeonSigns/NeonSigns_TitlePizza_On.png"
-dest_files=["res://.godot/imported/NeonSigns_TitlePizza_On.png-cbea2ce7eb5c559c926706972105d4b3.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Buildings/NeonSigns/NeonSigns_TitlePizza_On.png"
+dest_files=["res://.godot/imported/NeonSigns_TitlePizza_On.png-7507aaf7384f9808246b390882b5663a.ctex"]
 
 [params]
 

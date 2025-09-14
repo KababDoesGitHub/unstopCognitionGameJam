@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wufv6li0vec2"
-path="res://.godot/imported/Idle04.png-85597cf0838bc62b905b1aaf9694c666.ctex"
+path="res://.godot/imported/Idle04.png-697c0cc43c4fdc03fbc2b7010551166a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Fishing/Idle/LeftArm/Idle04.png"
-dest_files=["res://.godot/imported/Idle04.png-85597cf0838bc62b905b1aaf9694c666.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Fishing/Idle/LeftArm/Idle04.png"
+dest_files=["res://.godot/imported/Idle04.png-697c0cc43c4fdc03fbc2b7010551166a.ctex"]
 
 [params]
 

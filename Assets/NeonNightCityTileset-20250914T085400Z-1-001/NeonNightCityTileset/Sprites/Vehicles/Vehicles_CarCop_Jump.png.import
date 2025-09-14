@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://di6c6r8j8l3dy"
-path="res://.godot/imported/Vehicles_CarCop_Jump.png-3d288263f9c7495085584a6c7a4aee0d.ctex"
+path="res://.godot/imported/Vehicles_CarCop_Jump.png-de7adee9bddcdde17c81baf9d59b28db.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Vehicles/Vehicles_CarCop_Jump.png"
-dest_files=["res://.godot/imported/Vehicles_CarCop_Jump.png-3d288263f9c7495085584a6c7a4aee0d.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Vehicles/Vehicles_CarCop_Jump.png"
+dest_files=["res://.godot/imported/Vehicles_CarCop_Jump.png-de7adee9bddcdde17c81baf9d59b28db.ctex"]
 
 [params]
 

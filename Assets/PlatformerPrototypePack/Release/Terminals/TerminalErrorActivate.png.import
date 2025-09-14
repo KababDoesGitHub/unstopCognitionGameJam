@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ca0hdcuroo18h"
-path="res://.godot/imported/TerminalErrorActivate.png-9d84f821edd3f48338aa517195b424aa.ctex"
+path="res://.godot/imported/TerminalErrorActivate.png-4423403226bf3e8d021aaa20625bde73.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Terminals/TerminalErrorActivate.png"
-dest_files=["res://.godot/imported/TerminalErrorActivate.png-9d84f821edd3f48338aa517195b424aa.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Terminals/TerminalErrorActivate.png"
+dest_files=["res://.godot/imported/TerminalErrorActivate.png-4423403226bf3e8d021aaa20625bde73.ctex"]
 
 [params]
 

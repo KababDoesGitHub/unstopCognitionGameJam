@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xw8bsq03lt3r"
-path="res://.godot/imported/FrontFlip13.png-28dd7b42057d2a640b30f0b4bd27e82b.ctex"
+path="res://.godot/imported/FrontFlip13.png-103160c3708a7f5f0013febb75cf6e6e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/FrontFlip/LeftArm/FrontFlip13.png"
-dest_files=["res://.godot/imported/FrontFlip13.png-28dd7b42057d2a640b30f0b4bd27e82b.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/FrontFlip/LeftArm/FrontFlip13.png"
+dest_files=["res://.godot/imported/FrontFlip13.png-103160c3708a7f5f0013febb75cf6e6e.ctex"]
 
 [params]
 

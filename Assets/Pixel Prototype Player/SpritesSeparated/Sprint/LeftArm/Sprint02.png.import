@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnf867y2yj3nd"
-path="res://.godot/imported/Sprint02.png-b6face328e9e4506aede9aca5fa7268b.ctex"
+path="res://.godot/imported/Sprint02.png-0cdacf3955b998dc1da44764dd564f20.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Sprint/LeftArm/Sprint02.png"
-dest_files=["res://.godot/imported/Sprint02.png-b6face328e9e4506aede9aca5fa7268b.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Sprint/LeftArm/Sprint02.png"
+dest_files=["res://.godot/imported/Sprint02.png-0cdacf3955b998dc1da44764dd564f20.ctex"]
 
 [params]
 

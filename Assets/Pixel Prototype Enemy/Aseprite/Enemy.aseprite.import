@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://wke6m7ejx5ae"
-path="res://.godot/imported/Enemy.aseprite-40daf854e682222b92ad217c9edca1dd.res"
+path="res://.godot/imported/Enemy.aseprite-69e1e1c3b2c5938deba1a61a4115e012.res"
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/Aseprite/Enemy.aseprite"
-dest_files=["res://.godot/imported/Enemy.aseprite-40daf854e682222b92ad217c9edca1dd.res"]
+source_file="res://assets/Pixel Prototype Enemy/Aseprite/Enemy.aseprite"
+dest_files=["res://.godot/imported/Enemy.aseprite-69e1e1c3b2c5938deba1a61a4115e012.res"]
 
 [params]
 

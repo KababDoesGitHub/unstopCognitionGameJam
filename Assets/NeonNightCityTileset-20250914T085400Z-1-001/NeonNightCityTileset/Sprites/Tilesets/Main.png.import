@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2kwx25ukoytc"
-path="res://.godot/imported/Main.png-b7e0ff0a665675f3fd879df117bd9518.ctex"
+path="res://.godot/imported/Main.png-21c7872c572dda692c8fb7ae7694d393.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Tilesets/Main.png"
-dest_files=["res://.godot/imported/Main.png-b7e0ff0a665675f3fd879df117bd9518.ctex"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Sprites/Tilesets/Main.png"
+dest_files=["res://.godot/imported/Main.png-21c7872c572dda692c8fb7ae7694d393.ctex"]
 
 [params]
 

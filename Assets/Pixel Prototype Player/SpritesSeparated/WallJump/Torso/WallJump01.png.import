@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csrhor7b3rwjq"
-path="res://.godot/imported/WallJump01.png-cbd91abf525901ad5fb556c574240390.ctex"
+path="res://.godot/imported/WallJump01.png-f161a8151ab9293b6f41b896f4fc2d33.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/WallJump/Torso/WallJump01.png"
-dest_files=["res://.godot/imported/WallJump01.png-cbd91abf525901ad5fb556c574240390.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/WallJump/Torso/WallJump01.png"
+dest_files=["res://.godot/imported/WallJump01.png-f161a8151ab9293b6f41b896f4fc2d33.ctex"]
 
 [params]
 

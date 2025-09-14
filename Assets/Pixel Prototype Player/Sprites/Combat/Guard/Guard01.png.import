@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7c7fwgklk6ht"
-path="res://.godot/imported/Guard01.png-ceec2896c316b74caee2aee9290cbee9.ctex"
+path="res://.godot/imported/Guard01.png-8dc2520c86f5ed2038361b85e0d0c4eb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/Sprites/Combat/Guard/Guard01.png"
-dest_files=["res://.godot/imported/Guard01.png-ceec2896c316b74caee2aee9290cbee9.ctex"]
+source_file="res://assets/Pixel Prototype Player/Sprites/Combat/Guard/Guard01.png"
+dest_files=["res://.godot/imported/Guard01.png-8dc2520c86f5ed2038361b85e0d0c4eb.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://buh0ewgp0msmi"
-path="res://.godot/imported/ColorPalette.aseprite-5ad3dd614ac7fd259f1ce37035b149ba.res"
+path="res://.godot/imported/ColorPalette.aseprite-7b882d8226ace160329e261ae1044ce9.res"
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Aseprite/ColorPalette.aseprite"
-dest_files=["res://.godot/imported/ColorPalette.aseprite-5ad3dd614ac7fd259f1ce37035b149ba.res"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Aseprite/ColorPalette.aseprite"
+dest_files=["res://.godot/imported/ColorPalette.aseprite-7b882d8226ace160329e261ae1044ce9.res"]
 
 [params]
 

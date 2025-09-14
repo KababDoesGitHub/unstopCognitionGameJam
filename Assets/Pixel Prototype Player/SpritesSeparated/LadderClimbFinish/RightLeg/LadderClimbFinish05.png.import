@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://be0iq3baw5ign"
-path="res://.godot/imported/LadderClimbFinish05.png-74a9ec72f81fa3d1e35d9ba5d9d58708.ctex"
+path="res://.godot/imported/LadderClimbFinish05.png-d1e72dfb266ea9d0b6968a2c9b1567cf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/LadderClimbFinish/RightLeg/LadderClimbFinish05.png"
-dest_files=["res://.godot/imported/LadderClimbFinish05.png-74a9ec72f81fa3d1e35d9ba5d9d58708.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/LadderClimbFinish/RightLeg/LadderClimbFinish05.png"
+dest_files=["res://.godot/imported/LadderClimbFinish05.png-d1e72dfb266ea9d0b6968a2c9b1567cf.ctex"]
 
 [params]
 

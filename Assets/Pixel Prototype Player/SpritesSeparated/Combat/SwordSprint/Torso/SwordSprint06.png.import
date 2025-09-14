@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ci1h46l15ine3"
-path="res://.godot/imported/SwordSprint06.png-dabd332dd1d06cfec934ebc763209274.ctex"
+path="res://.godot/imported/SwordSprint06.png-ff234e8eb3b2fb7dc5576731f9cda481.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/SwordSprint/Torso/SwordSprint06.png"
-dest_files=["res://.godot/imported/SwordSprint06.png-dabd332dd1d06cfec934ebc763209274.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/SwordSprint/Torso/SwordSprint06.png"
+dest_files=["res://.godot/imported/SwordSprint06.png-ff234e8eb3b2fb7dc5576731f9cda481.ctex"]
 
 [params]
 

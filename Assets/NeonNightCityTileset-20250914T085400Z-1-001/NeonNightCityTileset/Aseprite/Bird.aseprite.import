@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://s530c5eq00gl"
-path="res://.godot/imported/Bird.aseprite-ffe7ec9c0c7471a2a990e99f74c3123c.res"
+path="res://.godot/imported/Bird.aseprite-2b5089bb3835d32f5d3b9ec8ae0c4223.res"
 
 [deps]
 
-source_file="res://Assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Aseprite/Bird.aseprite"
-dest_files=["res://.godot/imported/Bird.aseprite-ffe7ec9c0c7471a2a990e99f74c3123c.res"]
+source_file="res://assets/NeonNightCityTileset-20250914T085400Z-1-001/NeonNightCityTileset/Aseprite/Bird.aseprite"
+dest_files=["res://.godot/imported/Bird.aseprite-2b5089bb3835d32f5d3b9ec8ae0c4223.res"]
 
 [params]
 

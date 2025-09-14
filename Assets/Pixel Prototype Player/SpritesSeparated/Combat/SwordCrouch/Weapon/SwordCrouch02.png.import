@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btcqelw0ha78w"
-path="res://.godot/imported/SwordCrouch02.png-c2c7115090fe2ba59237dab12db111b4.ctex"
+path="res://.godot/imported/SwordCrouch02.png-90e2f53cb57d6c82a32b8dda3e3af5e6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/SwordCrouch/Weapon/SwordCrouch02.png"
-dest_files=["res://.godot/imported/SwordCrouch02.png-c2c7115090fe2ba59237dab12db111b4.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/SwordCrouch/Weapon/SwordCrouch02.png"
+dest_files=["res://.godot/imported/SwordCrouch02.png-90e2f53cb57d6c82a32b8dda3e3af5e6.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://dgui0ex5xnuxw"
-path="res://.godot/imported/Ladder.aseprite-c4d7246242b090613a35964e294bb19a.res"
+path="res://.godot/imported/Ladder.aseprite-de4797935ed043dfb1c62166f8431c85.res"
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Ladder/Ladder.aseprite"
-dest_files=["res://.godot/imported/Ladder.aseprite-c4d7246242b090613a35964e294bb19a.res"]
+source_file="res://assets/PlatformerPrototypePack/Release/Ladder/Ladder.aseprite"
+dest_files=["res://.godot/imported/Ladder.aseprite-de4797935ed043dfb1c62166f8431c85.res"]
 
 [params]
 

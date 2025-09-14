@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qe0ou5d0422r"
-path="res://.godot/imported/CombatDummyDamageMedium.png-ffd749823bde83dce679220262a1d53b.ctex"
+path="res://.godot/imported/CombatDummyDamageMedium.png-0a8070bc896f27538f716b13e5710ac4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/CombatDummy/CombatDummyDamageMedium.png"
-dest_files=["res://.godot/imported/CombatDummyDamageMedium.png-ffd749823bde83dce679220262a1d53b.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/CombatDummy/CombatDummyDamageMedium.png"
+dest_files=["res://.godot/imported/CombatDummyDamageMedium.png-0a8070bc896f27538f716b13e5710ac4.ctex"]
 
 [params]
 

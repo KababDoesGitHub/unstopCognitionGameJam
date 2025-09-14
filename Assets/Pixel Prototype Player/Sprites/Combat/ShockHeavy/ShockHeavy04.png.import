@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2232wrh35036"
-path="res://.godot/imported/ShockHeavy04.png-cf27e84626bea1ab05ec25797ebce094.ctex"
+path="res://.godot/imported/ShockHeavy04.png-e9a0992eb3f8debe5e3dbbb51ca167f4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/Sprites/Combat/ShockHeavy/ShockHeavy04.png"
-dest_files=["res://.godot/imported/ShockHeavy04.png-cf27e84626bea1ab05ec25797ebce094.ctex"]
+source_file="res://assets/Pixel Prototype Player/Sprites/Combat/ShockHeavy/ShockHeavy04.png"
+dest_files=["res://.godot/imported/ShockHeavy04.png-e9a0992eb3f8debe5e3dbbb51ca167f4.ctex"]
 
 [params]
 

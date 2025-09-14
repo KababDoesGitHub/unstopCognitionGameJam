@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dhq68kif8tnwh"
-path="res://.godot/imported/Land02.png-160d29920aa85e2aea1d8ff0c5cbbb9a.ctex"
+path="res://.godot/imported/Land02.png-87be6b0692579313b1da32b0324c73a1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/SpritesSeparated/Land/Effects/Land02.png"
-dest_files=["res://.godot/imported/Land02.png-160d29920aa85e2aea1d8ff0c5cbbb9a.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/SpritesSeparated/Land/Effects/Land02.png"
+dest_files=["res://.godot/imported/Land02.png-87be6b0692579313b1da32b0324c73a1.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d282ytfgn4jow"
-path="res://.godot/imported/SpikePitActivated.png-290b8c9c9b6d608a3770105b6de43b5c.ctex"
+path="res://.godot/imported/SpikePitActivated.png-dae73b158cdd6a8eeff5c7211b10ff38.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Spikes/SpikePitActivated.png"
-dest_files=["res://.godot/imported/SpikePitActivated.png-290b8c9c9b6d608a3770105b6de43b5c.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Spikes/SpikePitActivated.png"
+dest_files=["res://.godot/imported/SpikePitActivated.png-dae73b158cdd6a8eeff5c7211b10ff38.ctex"]
 
 [params]
 

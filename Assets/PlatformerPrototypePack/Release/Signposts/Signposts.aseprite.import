@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://blkklh5x7dg6o"
-path="res://.godot/imported/Signposts.aseprite-719c54f7c9d8076aed99ef2979a35d83.res"
+path="res://.godot/imported/Signposts.aseprite-e57b38d1cd59b5a9f5ce17de4a9c5273.res"
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Signposts/Signposts.aseprite"
-dest_files=["res://.godot/imported/Signposts.aseprite-719c54f7c9d8076aed99ef2979a35d83.res"]
+source_file="res://assets/PlatformerPrototypePack/Release/Signposts/Signposts.aseprite"
+dest_files=["res://.godot/imported/Signposts.aseprite-e57b38d1cd59b5a9f5ce17de4a9c5273.res"]
 
 [params]
 

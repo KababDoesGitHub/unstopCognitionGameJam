@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3nhkvbkodw4h"
-path="res://.godot/imported/Slide04.png-dbc247aeda92e010addca87febdff9fb.ctex"
+path="res://.godot/imported/Slide04.png-902deaa06d249ed98fcc0b8fd1bf5c6b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Slide/Torso/Slide04.png"
-dest_files=["res://.godot/imported/Slide04.png-dbc247aeda92e010addca87febdff9fb.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Slide/Torso/Slide04.png"
+dest_files=["res://.godot/imported/Slide04.png-902deaa06d249ed98fcc0b8fd1bf5c6b.ctex"]
 
 [params]
 

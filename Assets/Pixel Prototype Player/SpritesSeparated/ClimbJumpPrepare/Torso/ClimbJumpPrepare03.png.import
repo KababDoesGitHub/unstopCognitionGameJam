@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://da5jy3s711hv8"
-path="res://.godot/imported/ClimbJumpPrepare03.png-a09c671164cc659cbf32cd6d7051fde4.ctex"
+path="res://.godot/imported/ClimbJumpPrepare03.png-dfa5a9e1071f78c06c0739c3f28979b8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/ClimbJumpPrepare/Torso/ClimbJumpPrepare03.png"
-dest_files=["res://.godot/imported/ClimbJumpPrepare03.png-a09c671164cc659cbf32cd6d7051fde4.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/ClimbJumpPrepare/Torso/ClimbJumpPrepare03.png"
+dest_files=["res://.godot/imported/ClimbJumpPrepare03.png-dfa5a9e1071f78c06c0739c3f28979b8.ctex"]
 
 [params]
 

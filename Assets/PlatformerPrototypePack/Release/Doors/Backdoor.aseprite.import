@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://bo7qj7qlnkelw"
-path="res://.godot/imported/Backdoor.aseprite-55450673788ca5ae2527ec48e7a7b11e.res"
+path="res://.godot/imported/Backdoor.aseprite-59ee96ea27281f50a561fce22176a231.res"
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Doors/Backdoor.aseprite"
-dest_files=["res://.godot/imported/Backdoor.aseprite-55450673788ca5ae2527ec48e7a7b11e.res"]
+source_file="res://assets/PlatformerPrototypePack/Release/Doors/Backdoor.aseprite"
+dest_files=["res://.godot/imported/Backdoor.aseprite-59ee96ea27281f50a561fce22176a231.res"]
 
 [params]
 

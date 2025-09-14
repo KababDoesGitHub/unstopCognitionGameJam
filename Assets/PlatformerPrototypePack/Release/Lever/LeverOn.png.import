@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqvymglmcn6mc"
-path="res://.godot/imported/LeverOn.png-c2c6370cb2dd26528b6341f88bf4261d.ctex"
+path="res://.godot/imported/LeverOn.png-a8bea8f3ec390b61e6e2f4c4b0f69914.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Lever/LeverOn.png"
-dest_files=["res://.godot/imported/LeverOn.png-c2c6370cb2dd26528b6341f88bf4261d.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Lever/LeverOn.png"
+dest_files=["res://.godot/imported/LeverOn.png-a8bea8f3ec390b61e6e2f4c4b0f69914.ctex"]
 
 [params]
 

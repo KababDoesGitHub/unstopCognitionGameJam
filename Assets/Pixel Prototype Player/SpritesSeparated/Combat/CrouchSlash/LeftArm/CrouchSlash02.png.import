@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqqega25xei5l"
-path="res://.godot/imported/CrouchSlash02.png-98e69abf9c5dd331d04a310f960e21c7.ctex"
+path="res://.godot/imported/CrouchSlash02.png-5afdbe1e52653f5bba047add258422c1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Player/SpritesSeparated/Combat/CrouchSlash/LeftArm/CrouchSlash02.png"
-dest_files=["res://.godot/imported/CrouchSlash02.png-98e69abf9c5dd331d04a310f960e21c7.ctex"]
+source_file="res://assets/Pixel Prototype Player/SpritesSeparated/Combat/CrouchSlash/LeftArm/CrouchSlash02.png"
+dest_files=["res://.godot/imported/CrouchSlash02.png-5afdbe1e52653f5bba047add258422c1.ctex"]
 
 [params]
 

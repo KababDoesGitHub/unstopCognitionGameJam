@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://nvrpnaukrlck"
-path="res://.godot/imported/Hazard.png-9ff16cac0b7d6d8c1bac40676eb9272f.ctex"
+path="res://.godot/imported/Hazard.png-6a03c7de2e59f78955f04c5167566e8e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Signposts/Hazard.png"
-dest_files=["res://.godot/imported/Hazard.png-9ff16cac0b7d6d8c1bac40676eb9272f.ctex"]
+source_file="res://assets/PlatformerPrototypePack/Release/Signposts/Hazard.png"
+dest_files=["res://.godot/imported/Hazard.png-6a03c7de2e59f78955f04c5167566e8e.ctex"]
 
 [params]
 

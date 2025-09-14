@@ -3,12 +3,12 @@
 importer="aseprite_wizard.plugin.noop"
 type="PackedDataContainer"
 uid="uid://c6wjptlet6gij"
-path="res://.godot/imported/Checkpoint.aseprite-297d3f5e1a2aac4b2885995ae8a4afe0.res"
+path="res://.godot/imported/Checkpoint.aseprite-1f4da22643f99f11f3872625bd83586b.res"
 
 [deps]
 
-source_file="res://Assets/PlatformerPrototypePack/Release/Checkpoint/Checkpoint.aseprite"
-dest_files=["res://.godot/imported/Checkpoint.aseprite-297d3f5e1a2aac4b2885995ae8a4afe0.res"]
+source_file="res://assets/PlatformerPrototypePack/Release/Checkpoint/Checkpoint.aseprite"
+dest_files=["res://.godot/imported/Checkpoint.aseprite-1f4da22643f99f11f3872625bd83586b.res"]
 
 [params]
 

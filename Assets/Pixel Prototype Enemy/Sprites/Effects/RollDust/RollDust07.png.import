@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jsyg43oemlki"
-path="res://.godot/imported/RollDust07.png-b45cd17bb68a0eab3c53c4573ec8503d.ctex"
+path="res://.godot/imported/RollDust07.png-23a89a156164230e6e28e165bf1bb945.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Pixel Prototype Enemy/Sprites/Effects/RollDust/RollDust07.png"
-dest_files=["res://.godot/imported/RollDust07.png-b45cd17bb68a0eab3c53c4573ec8503d.ctex"]
+source_file="res://assets/Pixel Prototype Enemy/Sprites/Effects/RollDust/RollDust07.png"
+dest_files=["res://.godot/imported/RollDust07.png-23a89a156164230e6e28e165bf1bb945.ctex"]
 
 [params]
 
