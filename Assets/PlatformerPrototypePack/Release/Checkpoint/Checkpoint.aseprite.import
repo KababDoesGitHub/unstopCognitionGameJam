@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://c6wjptlet6gij"
+path="res://.godot/imported/Checkpoint.aseprite-297d3f5e1a2aac4b2885995ae8a4afe0.res"
+
+[deps]
+
+source_file="res://Assets/PlatformerPrototypePack/Release/Checkpoint/Checkpoint.aseprite"
+dest_files=["res://.godot/imported/Checkpoint.aseprite-297d3f5e1a2aac4b2885995ae8a4afe0.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://3ucuhys5axdu"
+path="res://.godot/imported/MechanicalDoor.aseprite-4e2be7be50cb8e5caf0852dc41874112.res"
+
+[deps]
+
+source_file="res://Assets/PlatformerPrototypePack/Release/Doors/MechanicalDoor.aseprite"
+dest_files=["res://.godot/imported/MechanicalDoor.aseprite-4e2be7be50cb8e5caf0852dc41874112.res"]
+
+[params]
+

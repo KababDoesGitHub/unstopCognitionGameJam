@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://dgui0ex5xnuxw"
+path="res://.godot/imported/Ladder.aseprite-c4d7246242b090613a35964e294bb19a.res"
+
+[deps]
+
+source_file="res://Assets/PlatformerPrototypePack/Release/Ladder/Ladder.aseprite"
+dest_files=["res://.godot/imported/Ladder.aseprite-c4d7246242b090613a35964e294bb19a.res"]
+
+[params]
+

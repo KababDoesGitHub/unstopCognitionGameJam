@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://b7dx1c5mor325"
+path="res://.godot/imported/Effects.aseprite-04153e10ab646c783328a63a25071336.res"
+
+[deps]
+
+source_file="res://Assets/Pixel Prototype Enemy/Aseprite/Effects.aseprite"
+dest_files=["res://.godot/imported/Effects.aseprite-04153e10ab646c783328a63a25071336.res"]
+
+[params]
+

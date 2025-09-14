@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://ykargm8v43dd"
+path="res://.godot/imported/PlayerStatue.aseprite-d6e0156cc868e1fc052508d35fb43d64.res"
+
+[deps]
+
+source_file="res://Assets/PlatformerPrototypePack/Release/PlayerStatue/PlayerStatue.aseprite"
+dest_files=["res://.godot/imported/PlayerStatue.aseprite-d6e0156cc868e1fc052508d35fb43d64.res"]
+
+[params]
+

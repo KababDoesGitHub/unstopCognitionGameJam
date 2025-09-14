@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://oghv23vxglj7"
+path="res://.godot/imported/CircularSaw.aseprite-715249b7fbaf34e243c040707c1a164f.res"
+
+[deps]
+
+source_file="res://Assets/PlatformerPrototypePack/Release/Saws/CircularSaw.aseprite"
+dest_files=["res://.godot/imported/CircularSaw.aseprite-715249b7fbaf34e243c040707c1a164f.res"]
+
+[params]
+
