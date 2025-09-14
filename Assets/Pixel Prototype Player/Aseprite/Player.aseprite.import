@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://wdx6sq1f3csb"
+path="res://.godot/imported/Player.aseprite-a94193571134d9ce8fe5e57d343b4387.res"
+
+[deps]
+
+source_file="res://Assets/Pixel Prototype Player/Aseprite/Player.aseprite"
+dest_files=["res://.godot/imported/Player.aseprite-a94193571134d9ce8fe5e57d343b4387.res"]
+
+[params]
+
