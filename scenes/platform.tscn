@@ -1,0 +1,36 @@
+[gd_scene load_steps=3 format=3 uid="uid://bp7p8l4pcup8s"]
+
+[ext_resource type="Texture2D" uid="uid://dw47wey8jinq" path="res://assets/platformm.png" id="1_ba0x2"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_nlgqw"]
+size = Vector2(30, 8)
+
+[node name="platform" type="AnimatableBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture_filter = 1
+texture = ExtResource("1_ba0x2")
+metadata/_aseprite_wizard_interface_config_ = {
+"pending_changes": {
+"convert_fps_field": 60.0,
+"convert_ms_field": 16.0,
+"convert_to_fps": false,
+"embed_tex": true,
+"i_mode": 0,
+"keep_anim_length": false,
+"layers": [],
+"o_ex_p": "",
+"o_folder": "",
+"o_name": "",
+"only_visible": false,
+"player": "",
+"scale": "1.0",
+"slice": "",
+"source": "res://assets/platform.aseprite",
+"source_uid": 7254566507429166264
+}
+}
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_nlgqw")
+one_way_collision = true

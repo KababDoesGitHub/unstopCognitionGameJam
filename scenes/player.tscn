@@ -1531,7 +1531,7 @@ animations = [{
 "duration": 1.0,
 "texture": SubResource("AtlasTexture_dnnjp")
 }],
-"loop": true,
+"loop": false,
 "name": &"Jump",
 "speed": 5.0
 }, {
@@ -1539,7 +1539,7 @@ animations = [{
 "duration": 1.0,
 "texture": SubResource("AtlasTexture_dnnjp")
 }],
-"loop": true,
+"loop": false,
 "name": &"JumpFall",
 "speed": 5.0
 }, {
@@ -1547,7 +1547,7 @@ animations = [{
 "duration": 1.0,
 "texture": SubResource("AtlasTexture_2yjfb")
 }],
-"loop": true,
+"loop": false,
 "name": &"JumpMid",
 "speed": 5.0
 }, {
@@ -1555,7 +1555,7 @@ animations = [{
 "duration": 1.0,
 "texture": SubResource("AtlasTexture_reqs7")
 }],
-"loop": true,
+"loop": false,
 "name": &"JumpRise",
 "speed": 5.0
 }, {
@@ -1578,7 +1578,7 @@ animations = [{
 "duration": 1.0,
 "texture": SubResource("AtlasTexture_qe2k6")
 }],
-"loop": true,
+"loop": false,
 "name": &"Knockback",
 "speed": 7.0
 }, {
@@ -2188,15 +2188,17 @@ radius = 6.0
 height = 39.0
 
 [node name="Player" type="CharacterBody2D"]
+z_index = 1
+collision_layer = 2
 script = ExtResource("1_3vyb7")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 texture_filter = 1
 position = Vector2(0, -42)
 sprite_frames = SubResource("SpriteFrames_uc5i5")
-animation = &"Idle"
+animation = &"FrontFlip"
 autoplay = "Idle"
-frame_progress = 0.62961
+frame_progress = 0.967479
 metadata/_aseprite_wizard_interface_config_ = {
 "animation_section": true,
 "layer_section": true,
