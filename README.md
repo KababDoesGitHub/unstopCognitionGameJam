@@ -11,6 +11,9 @@
 ![screenshot of aseprite wizard in godot's assetlib](https://github.com/KababDoesGitHub/unstopCognitionGameJam/blob/main/Screenshot%202025-09-16%20175850.png)
 7. Press F5 or click the play button on the top right of the engine ui.
 
-# EXE FILE DOWNLOAD: 
+# EXE FILE DOWNLOAD: https://www.drive.google.com/
+
+# ASSETS USED:
+- .
 
 # About this Game:
