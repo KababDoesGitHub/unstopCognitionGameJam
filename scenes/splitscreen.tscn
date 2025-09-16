@@ -27,49 +27,49 @@ render_target_update_mode = 4
 offset = Vector2(0, -30)
 zoom = Vector2(4, 4)
 
-[node name="ParallaxBackground" type="ParallaxBackground" parent="SubViewportContainer/SubViewport/Camera2D"]
+[node name="ParallaxBackground" type="ParallaxBackground" parent="SubViewportContainer/SubViewport"]
 offset = Vector2(0, -120)
 scale = Vector2(0.3, 0.3)
 transform = Transform2D(0.3, 0, 0, 0.3, 0, -120)
 follow_viewport_enabled = true
 follow_viewport_scale = 0.3
 
-[node name="sky" type="ParallaxLayer" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground"]
+[node name="sky" type="ParallaxLayer" parent="SubViewportContainer/SubViewport/ParallaxBackground"]
 motion_scale = Vector2(0, 0)
 motion_mirroring = Vector2(1056, 0)
 
-[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground/sky"]
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer/SubViewport/ParallaxBackground/sky"]
 texture_filter = 1
 texture = ExtResource("3_otgcc")
 
-[node name="moon" type="ParallaxLayer" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground"]
+[node name="moon" type="ParallaxLayer" parent="SubViewportContainer/SubViewport/ParallaxBackground"]
 motion_scale = Vector2(0.01, 0.01)
 
-[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground/moon"]
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer/SubViewport/ParallaxBackground/moon"]
 texture = ExtResource("4_coh6e")
 flip_h = true
 
-[node name="buildingsBack" type="ParallaxLayer" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground"]
+[node name="buildingsBack" type="ParallaxLayer" parent="SubViewportContainer/SubViewport/ParallaxBackground"]
 motion_scale = Vector2(0.3, 0.3)
 motion_mirroring = Vector2(1056, 0)
 
-[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground/buildingsBack"]
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer/SubViewport/ParallaxBackground/buildingsBack"]
 texture_filter = 1
 texture = ExtResource("5_fmpxd")
 
-[node name="buildingsMid" type="ParallaxLayer" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground"]
+[node name="buildingsMid" type="ParallaxLayer" parent="SubViewportContainer/SubViewport/ParallaxBackground"]
 motion_scale = Vector2(0.5, 0.5)
 motion_mirroring = Vector2(1056, 0)
 
-[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground/buildingsMid"]
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer/SubViewport/ParallaxBackground/buildingsMid"]
 texture_filter = 1
 texture = ExtResource("6_v42x8")
 
-[node name="buildingsClose" type="ParallaxLayer" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground"]
+[node name="buildingsClose" type="ParallaxLayer" parent="SubViewportContainer/SubViewport/ParallaxBackground"]
 motion_scale = Vector2(0.7, 0.7)
 motion_mirroring = Vector2(1056, 0)
 
-[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground/buildingsClose"]
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer/SubViewport/ParallaxBackground/buildingsClose"]
 texture_filter = 1
 texture = ExtResource("7_dqqnb")
 
@@ -88,49 +88,67 @@ render_target_update_mode = 4
 offset = Vector2(0, -30)
 zoom = Vector2(4, 4)
 
-[node name="ParallaxBackground2" type="ParallaxBackground" parent="SubViewportContainer2/SubViewport/Camera2D2"]
-offset = Vector2(0, -120)
-scale = Vector2(0.3, 0.3)
-transform = Transform2D(0.3, 0, 0, 0.3, 0, -120)
+[node name="ParallaxBackground2" type="ParallaxBackground" parent="SubViewportContainer2/SubViewport"]
+offset = Vector2(300, 230)
+scale = Vector2(0.37, 0.37)
+transform = Transform2D(0.37, 0, 0, 0.37, 300, 230)
 follow_viewport_enabled = true
 follow_viewport_scale = 0.3
 
-[node name="sky" type="ParallaxLayer" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2"]
+[node name="sky" type="ParallaxLayer" parent="SubViewportContainer2/SubViewport/ParallaxBackground2"]
+light_mask = 2
+visibility_layer = 2
 motion_scale = Vector2(0, 0)
 motion_mirroring = Vector2(1056, 0)
 
-[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2/sky"]
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer2/SubViewport/ParallaxBackground2/sky"]
+light_mask = 2
+visibility_layer = 2
 texture_filter = 1
 texture = ExtResource("3_otgcc")
 
-[node name="moon" type="ParallaxLayer" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2"]
+[node name="moon" type="ParallaxLayer" parent="SubViewportContainer2/SubViewport/ParallaxBackground2"]
+light_mask = 2
+visibility_layer = 2
 motion_scale = Vector2(0.01, 0.01)
 
-[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2/moon"]
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer2/SubViewport/ParallaxBackground2/moon"]
+light_mask = 2
+visibility_layer = 2
 texture = ExtResource("4_coh6e")
 flip_h = true
 
-[node name="buildingsBack" type="ParallaxLayer" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2"]
+[node name="buildingsBack" type="ParallaxLayer" parent="SubViewportContainer2/SubViewport/ParallaxBackground2"]
+light_mask = 2
+visibility_layer = 2
 motion_scale = Vector2(0.3, 0.3)
 motion_mirroring = Vector2(1056, 0)
 
-[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2/buildingsBack"]
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer2/SubViewport/ParallaxBackground2/buildingsBack"]
+light_mask = 2
+visibility_layer = 2
 texture_filter = 1
 texture = ExtResource("5_fmpxd")
 
-[node name="buildingsMid" type="ParallaxLayer" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2"]
+[node name="buildingsMid" type="ParallaxLayer" parent="SubViewportContainer2/SubViewport/ParallaxBackground2"]
+light_mask = 2
+visibility_layer = 2
 motion_scale = Vector2(0.5, 0.5)
 motion_mirroring = Vector2(1056, 0)
 
-[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2/buildingsMid"]
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer2/SubViewport/ParallaxBackground2/buildingsMid"]
+light_mask = 2
+visibility_layer = 2
 texture_filter = 1
 texture = ExtResource("6_v42x8")
 
-[node name="buildingsClose" type="ParallaxLayer" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2"]
+[node name="buildingsClose" type="ParallaxLayer" parent="SubViewportContainer2/SubViewport/ParallaxBackground2"]
+light_mask = 2
+visibility_layer = 2
 motion_scale = Vector2(0.7, 0.7)
 motion_mirroring = Vector2(1056, 0)
 
-[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2/buildingsClose"]
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer2/SubViewport/ParallaxBackground2/buildingsClose"]
 texture_filter = 1
 texture = ExtResource("7_dqqnb")
 
