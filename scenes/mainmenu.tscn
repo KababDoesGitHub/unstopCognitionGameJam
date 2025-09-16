@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3 uid="uid://b5v576hrfada1"]
+
+[ext_resource type="Texture2D" uid="uid://dhu683sobaifu" path="res://assets/successful_level.png" id="1_natt5"]
+[ext_resource type="Script" uid="uid://1wyp4gfftlus" path="res://scripts/level_successful.gd" id="2_r3g3c"]
+
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(576, 324)
+texture = ExtResource("1_natt5")
+script = ExtResource("2_r3g3c")

@@ -1,11 +1,14 @@
-[gd_scene load_steps=26 format=4 uid="uid://bfu7fkf0e1j8w"]
+[gd_scene load_steps=29 format=4 uid="uid://bfu7fkf0e1j8w"]
 
+[ext_resource type="Script" uid="uid://d1cdroqsf1jh" path="res://scripts/game.gd" id="1_gee14"]
 [ext_resource type="PackedScene" uid="uid://5pdfg1cao27f" path="res://scenes/player.tscn" id="1_uwrxv"]
 [ext_resource type="Texture2D" uid="uid://bcbdrrdwgx1g4" path="res://Tilesets.aseprite" id="2_yqjtg"]
 [ext_resource type="PackedScene" uid="uid://d3rvco5m0s16m" path="res://scenes/player2.tscn" id="3_dinhu"]
 [ext_resource type="PackedScene" uid="uid://c0iq3g3hmxvra" path="res://scenes/pressure_plate.tscn" id="6_kvpfn"]
 [ext_resource type="PackedScene" uid="uid://bp7p8l4pcup8s" path="res://scenes/platform.tscn" id="8_gee14"]
 [ext_resource type="PackedScene" uid="uid://df4mqkwgqslq7" path="res://scenes/coin.tscn" id="9_0tnpc"]
+[ext_resource type="Script" uid="uid://cg82mfkk04ynk" path="res://scripts/blue_pressure_plate.gd" id="9_vtaks"]
+[ext_resource type="Script" uid="uid://ov7gwendt42s" path="res://scripts/green_pressure_plate.gd" id="10_kvpfn"]
 [ext_resource type="PackedScene" uid="uid://ciooyovw4tncd" path="res://scenes/kill_zone.tscn" id="10_vtaks"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_lnu2h"]
@@ -1228,17 +1231,19 @@ animations = [{
 }]
 
 [node name="Game" type="Node2D"]
+script = ExtResource("1_gee14")
 
 [node name="TileMapLayer" type="TileMapLayer" parent="."]
 top_level = true
 z_index = 2
 texture_filter = 1
-tile_map_data = PackedByteArray("AAD4/wAAAQAIAAMAAAD5/wAAAQAIAAMAAAD6/wAAAQAIAAMAAAD7/wAAAQAIAAMAAAD8/wAAAQAIAAMAAAD9/wAAAQAIAAMAAAD+/wAAAQAIAAMAAAD//wAAAQAIAAMAAAAAAAAAAQAIAAMAAAABAAAAAQAIAAMAAAACAAAAAQAIAAMAAAADAAAAAQAIAAMAAAAEAAAAAQAIAAMAAAAFAAAAAQAJAAMAAAAGAAAAAQAAAC4AAAABAP//AQAEABgAAAACAP//AQAFABgAAAADAP//AQAGABgAAAAFAP//AQAJAC0AAAAGAP//AQAKAC0AAAAGAP7/AQAJAC0AAAAHAP7/AQAKAC0AAAAHAP//AQAAAC4AAAAVAAAAAQABAAAAAAAWAAAAAQABAAAAAAAXAAAAAQALAC0AAAAYAAAAAQAIAAMAAAAZAAAAAQAIAAMAAAAaAAAAAQAIAAMAAAAbAAAAAQAIAAMAAAAcAAAAAQAIAAMAAAAdAAAAAQAIAAMAAAAHAP3/AQAJAC0AAAAIAPz/AQAJAC0AAAAIAP3/AQAKAC0AAAAIAP7/AQAAAC4AAAAJAP3/AQAAAC4AAAAJAPz/AQAKAC0AAAAJAP7/AQABAAAAAAAJAP//AQABAAAAAAAIAP//AQABAAAAAAAIAAAAAQABAAAAAAAHAAAAAQABAAAAAAAJAAAAAQABAAAAAAAUAAAAAQABAAAAAAAUAP//AQABAAAAAAAVAP//AQABAAAAAAAUAP7/AQABAAAAAAAVAP7/AQALAC0AAAAWAP//AQALAC0AAAAVAP3/AQAHAC0AAAAWAP7/AQAHAC0AAAAXAP//AQAHAC0AAAAUAP3/AQALAC0AAAAUAPz/AQAHAC0AAAAVAPz/AQAIAC0AAAAWAP3/AQAIAC0AAAAXAP7/AQAIAC0AAAAYAP//AQAIAC0AAAA=")
+tile_map_data = PackedByteArray("AAD4/wAAAQAIAAMAAAD5/wAAAQAIAAMAAAD6/wAAAQAIAAMAAAD7/wAAAQAIAAMAAAD8/wAAAQAIAAMAAAD9/wAAAQAIAAMAAAD+/wAAAQAIAAMAAAD//wAAAQAIAAMAAAAFAAAAAQAJAAMAAAAGAAAAAQAAAC4AAAAFAP//AQAJAC0AAAAGAP//AQAKAC0AAAAGAP7/AQAJAC0AAAAHAP7/AQAKAC0AAAAHAP//AQAAAC4AAAAVAAAAAQABAAAAAAAWAAAAAQABAAAAAAAXAAAAAQALAC0AAAAYAAAAAQAIAAMAAAAZAAAAAQAIAAMAAAAaAAAAAQAIAAMAAAAbAAAAAQAIAAMAAAAcAAAAAQAIAAMAAAAdAAAAAQAIAAMAAAAHAP3/AQAJAC0AAAAIAPz/AQAJAC0AAAAIAP3/AQAKAC0AAAAIAP7/AQAAAC4AAAAJAP3/AQAAAC4AAAAJAPz/AQAKAC0AAAAJAP7/AQABAAAAAAAJAP//AQABAAAAAAAIAP//AQABAAAAAAAIAAAAAQABAAAAAAAHAAAAAQABAAAAAAAJAAAAAQABAAAAAAAUAAAAAQABAAAAAAAUAP//AQABAAAAAAAVAP//AQABAAAAAAAUAP7/AQABAAAAAAAVAP7/AQALAC0AAAAWAP//AQALAC0AAAAVAP3/AQAHAC0AAAAWAP7/AQAHAC0AAAAXAP//AQAHAC0AAAAUAP3/AQALAC0AAAAUAPz/AQAHAC0AAAAVAPz/AQAIAC0AAAAWAP3/AQAIAC0AAAAXAP7/AQAIAC0AAAAYAP//AQAIAC0AAAAEAAAAAQAIAAMAAAABAAIAAQAHAC0AAAACAAMAAQAHAC0AAAADAAQAAQAHAC0AAAAEAAUAAQAHAC0AAAABAAEAAQAIAC0AAAACAAIAAQAIAC0AAAADAAMAAQAIAC0AAAAEAAQAAQAIAC0AAAAFAAUAAQAIAAMAAAAAAAIAAQAIAAMAAAABAAMAAQAIAAMAAAACAAQAAQAIAAMAAAADAAUAAQAIAAMAAAAAAAEAAQAIAAMAAAAAAAAAAQAIAC0AAAAGAAUAAQAIAAMAAAAHAAUAAQAIAAMAAAAIAAUAAQAIAAMAAAAJAAUAAQAIAAMAAAAKAAUAAQAIAAMAAAAOAAUAAQAIAAMAAAAPAAUAAQAIAAMAAAATAAUAAQAIAAMAAAAUAAUAAQAIAAMAAAAVAAUAAQAIAAMAAAAWAAUAAQAIAAMAAAANAAUAAQAIAAMAAAAQAAUAAQAIAAMAAAALAP//AQAEABgAAAAMAP//AQAFABgAAAANAP//AQAGABgAAAAXAAUAAQAIAAMAAAAYAAUAAQAIAAMAAAAZAAUAAQAIAAMAAAAaAAUAAQAIAAMAAAAbAAUAAQAIAAMAAAAcAAUAAQAIAAMAAAAdAAUAAQAIAAMAAAAeAAUAAQAIAAMAAAAfAAUAAQAIAAMAAAAgAAUAAQAIAAMAAAAhAAUAAQAIAAMAAAAiAAUAAQAIAAMAAAA=")
 tile_set = SubResource("TileSet_lbhrr")
 
 [node name="player" parent="." instance=ExtResource("1_uwrxv")]
 
 [node name="player2" parent="." instance=ExtResource("3_dinhu")]
+position = Vector2(-23, 0)
 collision_layer = 4
 
 [node name="killZone" parent="." instance=ExtResource("10_vtaks")]
@@ -1251,11 +1256,23 @@ shape = SubResource("WorldBoundaryShape2D_kvpfn")
 [node name="coins" type="Node" parent="."]
 
 [node name="coin" parent="coins" instance=ExtResource("9_0tnpc")]
-position = Vector2(0, -52)
+position = Vector2(11, -52)
+collision_mask = 6
+
+[node name="coin4" parent="coins" instance=ExtResource("9_0tnpc")]
+position = Vector2(290, 57)
+collision_mask = 6
+
+[node name="coin5" parent="coins" instance=ExtResource("9_0tnpc")]
+position = Vector2(193, 58)
 collision_mask = 6
 
 [node name="coin2" parent="coins" instance=ExtResource("9_0tnpc")]
-position = Vector2(39, -5)
+position = Vector2(192, -5)
+collision_mask = 6
+
+[node name="coin6" parent="coins" instance=ExtResource("9_0tnpc")]
+position = Vector2(208, -5)
 collision_mask = 6
 
 [node name="coin3" parent="coins" instance=ExtResource("9_0tnpc")]
@@ -1265,7 +1282,7 @@ collision_mask = 6
 [node name="platforms" type="Node" parent="."]
 
 [node name="platform" parent="platforms" instance=ExtResource("8_gee14")]
-position = Vector2(0, -42)
+position = Vector2(11, -42)
 
 [node name="platform2" parent="platforms" instance=ExtResource("8_gee14")]
 position = Vector2(179, -60)
@@ -1280,10 +1297,11 @@ autoplay = "move"
 
 [node name="bluepressureplates" type="Node" parent="pressureplates"]
 
-[node name="PressurePlate" parent="pressureplates/bluepressureplates" instance=ExtResource("6_kvpfn")]
-position = Vector2(-53, 0)
+[node name="bluePressurePlate" parent="pressureplates/bluepressureplates" instance=ExtResource("6_kvpfn")]
+position = Vector2(546, 80)
+script = ExtResource("9_vtaks")
 
-[node name="pressurePlateSprite" type="AnimatedSprite2D" parent="pressureplates/bluepressureplates/PressurePlate"]
+[node name="pressurePlateSprite" type="AnimatedSprite2D" parent="pressureplates/bluepressureplates/bluePressurePlate"]
 texture_filter = 1
 sprite_frames = SubResource("SpriteFrames_rysoc")
 animation = &"Press"
@@ -1308,12 +1326,13 @@ metadata/_aseprite_wizard_source_file_hash_ = "98ae000e083700a5d28169dbbeb9ab4f"
 
 [node name="greenpressureplates" type="Node" parent="pressureplates"]
 
-[node name="PressurePlate" parent="pressureplates/greenpressureplates" instance=ExtResource("6_kvpfn")]
-position = Vector2(-96, 0)
+[node name="greenPressurePlate" parent="pressureplates/greenpressureplates" instance=ExtResource("6_kvpfn")]
+position = Vector2(467, 0)
 collision_layer = 4
 collision_mask = 4
+script = ExtResource("10_kvpfn")
 
-[node name="pressurePlateSprite" type="AnimatedSprite2D" parent="pressureplates/greenpressureplates/PressurePlate"]
+[node name="pressurePlateSprite" type="AnimatedSprite2D" parent="pressureplates/greenpressureplates/greenPressurePlate"]
 texture_filter = 1
 sprite_frames = SubResource("SpriteFrames_5newe")
 animation = &"Press"
@@ -1334,3 +1353,6 @@ metadata/_aseprite_wizard_config_ = {
 "source_uid": 7126097244532179634
 }
 metadata/_aseprite_wizard_source_file_hash_ = "b1357bd69eb6e83102f6f4fcac283375"
+
+[connection signal="body_entered" from="pressureplates/bluepressureplates/bluePressurePlate" to="." method="_on_blue_pressure_plate_body_entered"]
+[connection signal="body_entered" from="pressureplates/greenpressureplates/greenPressurePlate" to="." method="_on_green_pressure_plate_body_entered"]
