@@ -1,14 +1,9 @@
-[gd_scene load_steps=31 format=4 uid="uid://bfu7fkf0e1j8w"]
+[gd_scene load_steps=26 format=4 uid="uid://bfu7fkf0e1j8w"]
 
 [ext_resource type="PackedScene" uid="uid://5pdfg1cao27f" path="res://scenes/player.tscn" id="1_uwrxv"]
 [ext_resource type="Texture2D" uid="uid://bcbdrrdwgx1g4" path="res://Tilesets.aseprite" id="2_yqjtg"]
 [ext_resource type="PackedScene" uid="uid://d3rvco5m0s16m" path="res://scenes/player2.tscn" id="3_dinhu"]
-[ext_resource type="Texture2D" uid="uid://dxgjc7p4majaw" path="res://assets/background/sky.png" id="3_u5sy4"]
-[ext_resource type="Texture2D" uid="uid://cmfp7ube4hqx8" path="res://assets/background/buildings_close.png" id="4_gee14"]
-[ext_resource type="Texture2D" uid="uid://dr1ixiq556vus" path="res://assets/background/buildings_mid.png" id="5_0tnpc"]
 [ext_resource type="PackedScene" uid="uid://c0iq3g3hmxvra" path="res://scenes/pressure_plate.tscn" id="6_kvpfn"]
-[ext_resource type="Texture2D" uid="uid://dmia5o13dsqpe" path="res://assets/background/buildings_back.png" id="6_vtaks"]
-[ext_resource type="Texture2D" uid="uid://cc6fa70ljmj3e" path="res://assets/background/moon.png" id="7_kvpfn"]
 [ext_resource type="PackedScene" uid="uid://bp7p8l4pcup8s" path="res://scenes/platform.tscn" id="8_gee14"]
 [ext_resource type="PackedScene" uid="uid://df4mqkwgqslq7" path="res://scenes/coin.tscn" id="9_0tnpc"]
 [ext_resource type="PackedScene" uid="uid://ciooyovw4tncd" path="res://scenes/kill_zone.tscn" id="10_vtaks"]
@@ -1221,7 +1216,7 @@ animations = [{
 }],
 "loop": false,
 "name": &"Press",
-"speed": 5.0
+"speed": 7.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -1243,15 +1238,7 @@ tile_set = SubResource("TileSet_lbhrr")
 
 [node name="player" parent="." instance=ExtResource("1_uwrxv")]
 
-[node name="Camera2D" type="Camera2D" parent="player"]
-position = Vector2(0, -21)
-offset = Vector2(0, -30)
-zoom = Vector2(4, 4)
-limit_bottom = 135
-limit_smoothed = true
-position_smoothing_enabled = true
-
-[node name="Player" parent="." instance=ExtResource("3_dinhu")]
+[node name="player2" parent="." instance=ExtResource("3_dinhu")]
 collision_layer = 4
 
 [node name="killZone" parent="." instance=ExtResource("10_vtaks")]
@@ -1265,12 +1252,15 @@ shape = SubResource("WorldBoundaryShape2D_kvpfn")
 
 [node name="coin" parent="coins" instance=ExtResource("9_0tnpc")]
 position = Vector2(0, -52)
+collision_mask = 6
 
 [node name="coin2" parent="coins" instance=ExtResource("9_0tnpc")]
 position = Vector2(39, -5)
+collision_mask = 6
 
 [node name="coin3" parent="coins" instance=ExtResource("9_0tnpc")]
 position = Vector2(413, -11)
+collision_mask = 6
 
 [node name="platforms" type="Node" parent="."]
 
@@ -1285,52 +1275,6 @@ libraries = {
 &"": SubResource("AnimationLibrary_vtaks")
 }
 autoplay = "move"
-
-[node name="ParallaxBackground" type="ParallaxBackground" parent="."]
-offset = Vector2(0, -120)
-scale = Vector2(0.3, 0.3)
-transform = Transform2D(0.3, 0, 0, 0.3, 0, -120)
-follow_viewport_enabled = true
-follow_viewport_scale = 0.3
-
-[node name="sky" type="ParallaxLayer" parent="ParallaxBackground"]
-motion_scale = Vector2(0, 0)
-motion_mirroring = Vector2(1056, 0)
-
-[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground/sky"]
-texture_filter = 1
-texture = ExtResource("3_u5sy4")
-
-[node name="moon" type="ParallaxLayer" parent="ParallaxBackground"]
-motion_scale = Vector2(0.01, 0.01)
-
-[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground/moon"]
-texture = ExtResource("7_kvpfn")
-flip_h = true
-
-[node name="buildingsBack" type="ParallaxLayer" parent="ParallaxBackground"]
-motion_scale = Vector2(0.3, 0.3)
-motion_mirroring = Vector2(1056, 0)
-
-[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground/buildingsBack"]
-texture_filter = 1
-texture = ExtResource("6_vtaks")
-
-[node name="buildingsMid" type="ParallaxLayer" parent="ParallaxBackground"]
-motion_scale = Vector2(0.5, 0.5)
-motion_mirroring = Vector2(1056, 0)
-
-[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground/buildingsMid"]
-texture_filter = 1
-texture = ExtResource("5_0tnpc")
-
-[node name="buildingsClose" type="ParallaxLayer" parent="ParallaxBackground"]
-motion_scale = Vector2(0.7, 0.7)
-motion_mirroring = Vector2(1056, 0)
-
-[node name="Sprite2D" type="Sprite2D" parent="ParallaxBackground/buildingsClose"]
-texture_filter = 1
-texture = ExtResource("4_gee14")
 
 [node name="pressureplates" type="Node" parent="."]
 

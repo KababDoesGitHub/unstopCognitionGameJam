@@ -1,0 +1,137 @@
+[gd_scene load_steps=8 format=3 uid="uid://dls6cvlme83pf"]
+
+[ext_resource type="PackedScene" uid="uid://bfu7fkf0e1j8w" path="res://scenes/game.tscn" id="1_lt01p"]
+[ext_resource type="Script" uid="uid://cqb0hijckyiae" path="res://scripts/splitscreen.gd" id="1_u6apx"]
+[ext_resource type="Texture2D" uid="uid://dxgjc7p4majaw" path="res://assets/background/sky.png" id="3_otgcc"]
+[ext_resource type="Texture2D" uid="uid://cc6fa70ljmj3e" path="res://assets/background/moon.png" id="4_coh6e"]
+[ext_resource type="Texture2D" uid="uid://dmia5o13dsqpe" path="res://assets/background/buildings_back.png" id="5_fmpxd"]
+[ext_resource type="Texture2D" uid="uid://dr1ixiq556vus" path="res://assets/background/buildings_mid.png" id="6_v42x8"]
+[ext_resource type="Texture2D" uid="uid://cmfp7ube4hqx8" path="res://assets/background/buildings_close.png" id="7_dqqnb"]
+
+[node name="SPLITSCREEN" type="Node"]
+script = ExtResource("1_u6apx")
+
+[node name="SubViewportContainer" type="SubViewportContainer" parent="."]
+offset_right = 576.0
+offset_bottom = 648.0
+
+[node name="SubViewport" type="SubViewport" parent="SubViewportContainer"]
+disable_3d = true
+handle_input_locally = false
+size = Vector2i(576, 648)
+render_target_update_mode = 4
+
+[node name="Game" parent="SubViewportContainer/SubViewport" instance=ExtResource("1_lt01p")]
+
+[node name="Camera2D" type="Camera2D" parent="SubViewportContainer/SubViewport"]
+offset = Vector2(0, -30)
+zoom = Vector2(4, 4)
+
+[node name="ParallaxBackground" type="ParallaxBackground" parent="SubViewportContainer/SubViewport/Camera2D"]
+offset = Vector2(0, -120)
+scale = Vector2(0.3, 0.3)
+transform = Transform2D(0.3, 0, 0, 0.3, 0, -120)
+follow_viewport_enabled = true
+follow_viewport_scale = 0.3
+
+[node name="sky" type="ParallaxLayer" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground"]
+motion_scale = Vector2(0, 0)
+motion_mirroring = Vector2(1056, 0)
+
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground/sky"]
+texture_filter = 1
+texture = ExtResource("3_otgcc")
+
+[node name="moon" type="ParallaxLayer" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground"]
+motion_scale = Vector2(0.01, 0.01)
+
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground/moon"]
+texture = ExtResource("4_coh6e")
+flip_h = true
+
+[node name="buildingsBack" type="ParallaxLayer" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground"]
+motion_scale = Vector2(0.3, 0.3)
+motion_mirroring = Vector2(1056, 0)
+
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground/buildingsBack"]
+texture_filter = 1
+texture = ExtResource("5_fmpxd")
+
+[node name="buildingsMid" type="ParallaxLayer" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground"]
+motion_scale = Vector2(0.5, 0.5)
+motion_mirroring = Vector2(1056, 0)
+
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground/buildingsMid"]
+texture_filter = 1
+texture = ExtResource("6_v42x8")
+
+[node name="buildingsClose" type="ParallaxLayer" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground"]
+motion_scale = Vector2(0.7, 0.7)
+motion_mirroring = Vector2(1056, 0)
+
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer/SubViewport/Camera2D/ParallaxBackground/buildingsClose"]
+texture_filter = 1
+texture = ExtResource("7_dqqnb")
+
+[node name="SubViewportContainer2" type="SubViewportContainer" parent="."]
+offset_left = 580.0
+offset_right = 1156.0
+offset_bottom = 648.0
+
+[node name="SubViewport" type="SubViewport" parent="SubViewportContainer2"]
+disable_3d = true
+handle_input_locally = false
+size = Vector2i(576, 648)
+render_target_update_mode = 4
+
+[node name="Camera2D2" type="Camera2D" parent="SubViewportContainer2/SubViewport"]
+offset = Vector2(0, -30)
+zoom = Vector2(4, 4)
+
+[node name="ParallaxBackground2" type="ParallaxBackground" parent="SubViewportContainer2/SubViewport/Camera2D2"]
+offset = Vector2(0, -120)
+scale = Vector2(0.3, 0.3)
+transform = Transform2D(0.3, 0, 0, 0.3, 0, -120)
+follow_viewport_enabled = true
+follow_viewport_scale = 0.3
+
+[node name="sky" type="ParallaxLayer" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2"]
+motion_scale = Vector2(0, 0)
+motion_mirroring = Vector2(1056, 0)
+
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2/sky"]
+texture_filter = 1
+texture = ExtResource("3_otgcc")
+
+[node name="moon" type="ParallaxLayer" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2"]
+motion_scale = Vector2(0.01, 0.01)
+
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2/moon"]
+texture = ExtResource("4_coh6e")
+flip_h = true
+
+[node name="buildingsBack" type="ParallaxLayer" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2"]
+motion_scale = Vector2(0.3, 0.3)
+motion_mirroring = Vector2(1056, 0)
+
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2/buildingsBack"]
+texture_filter = 1
+texture = ExtResource("5_fmpxd")
+
+[node name="buildingsMid" type="ParallaxLayer" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2"]
+motion_scale = Vector2(0.5, 0.5)
+motion_mirroring = Vector2(1056, 0)
+
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2/buildingsMid"]
+texture_filter = 1
+texture = ExtResource("6_v42x8")
+
+[node name="buildingsClose" type="ParallaxLayer" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2"]
+motion_scale = Vector2(0.7, 0.7)
+motion_mirroring = Vector2(1056, 0)
+
+[node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer2/SubViewport/Camera2D2/ParallaxBackground2/buildingsClose"]
+texture_filter = 1
+texture = ExtResource("7_dqqnb")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
