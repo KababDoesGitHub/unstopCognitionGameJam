@@ -14,6 +14,9 @@
 # EXE FILE DOWNLOAD: https://www.drive.google.com/
 
 # ASSETS USED:
-- .
+- https://deadrevolver.itch.io/pixel-prototype-player-sprites
+- https://deadrevolver.itch.io/neon-night-city-tileset
+- https://deadrevolver.itch.io/platformer-prototype-pack
+- https://deadrevolver.itch.io/pixel-platformer-enemy-sprites
 
 # About this Game:
