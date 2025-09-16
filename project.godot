@@ -13,7 +13,7 @@ config_version=5
 config/name="New Game Project"
 run/main_scene="uid://dls6cvlme83pf"
 config/features=PackedStringArray("4.4", "Forward Plus")
-config/icon="res://Assets/icon.svg"
+config/icon="uid://dptf7sieknyqa"
 
 [editor_plugins]
 
