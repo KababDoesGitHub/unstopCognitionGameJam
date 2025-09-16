@@ -28,8 +28,9 @@ offset = Vector2(0, -30)
 zoom = Vector2(4, 4)
 
 [node name="ParallaxBackground" type="ParallaxBackground" parent="SubViewportContainer/SubViewport"]
+offset = Vector2(0, -20)
 scale = Vector2(0.3, 0.3)
-transform = Transform2D(0.3, 0, 0, 0.3, 0, 0)
+transform = Transform2D(0.3, 0, 0, 0.3, 0, -20)
 follow_viewport_enabled = true
 follow_viewport_scale = 0.3
 
@@ -88,9 +89,9 @@ offset = Vector2(0, -30)
 zoom = Vector2(4, 4)
 
 [node name="ParallaxBackground2" type="ParallaxBackground" parent="SubViewportContainer2/SubViewport"]
-offset = Vector2(300, 335)
+offset = Vector2(300, 285)
 scale = Vector2(0.36, 0.36)
-transform = Transform2D(0.36, 0, 0, 0.36, 300, 335)
+transform = Transform2D(0.36, 0, 0, 0.36, 300, 285)
 follow_viewport_enabled = true
 follow_viewport_scale = 0.3
 

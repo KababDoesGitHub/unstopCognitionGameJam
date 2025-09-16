@@ -4,6 +4,7 @@
 [ext_resource type="Script" uid="uid://1wyp4gfftlus" path="res://scripts/level_successful.gd" id="2_uowro"]
 
 [node name="Sprite2D" type="Sprite2D"]
+texture_filter = 1
 position = Vector2(576, 324)
 texture = ExtResource("1_slhuk")
 script = ExtResource("2_uowro")

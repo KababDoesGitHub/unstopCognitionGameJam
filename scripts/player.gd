@@ -14,11 +14,11 @@ func _physics_process(delta):
 		velocity.y += gravity * delta
 
 	# Handle jump.
-	if Input.is_action_just_pressed("ui_up") and is_on_floor():
+	if Input.is_action_just_pressed("jump2") and is_on_floor():
 		velocity.y = JUMP_VELOCITY
 
 	# Get the input direction: -1, 0, 1
-	var direction = Input.get_axis("ui_left", "ui_right")
+	var direction = Input.get_axis("left2", "right2")
 	
 	# Flip the Sprite
 	if direction > 0:
