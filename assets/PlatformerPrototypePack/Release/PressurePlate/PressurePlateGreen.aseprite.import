@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://c8r61sibw1i7c"
+path="res://.godot/imported/PressurePlateGreen.aseprite-9f13d840c1b2a5bfb43e06b516a0e9d4.res"
+
+[deps]
+
+source_file="res://assets/PlatformerPrototypePack/Release/PressurePlate/PressurePlateGreen.aseprite"
+dest_files=["res://.godot/imported/PressurePlateGreen.aseprite-9f13d840c1b2a5bfb43e06b516a0e9d4.res"]
+
+[params]
+
