@@ -1,3 +1,5 @@
+# GITHUB REPO: https://github.com/KababDoesGitHub/unstopCognitionGameJam
+
 # How to run this game:
 1. INSTALL [GODOT 4.4.1](https://godotengine.org/download/archive/4.4.1-stable/).
 2. Download the source code zip file.
@@ -11,7 +13,7 @@
 ![screenshot of aseprite wizard in godot's assetlib](https://github.com/KababDoesGitHub/unstopCognitionGameJam/blob/main/Screenshot%202025-09-16%20175850.png)
 7. Press F5 or click the play button on the top right of the engine ui.
 
-# EXE FILE DOWNLOAD: https://www.drive.google.com/
+# EXE FILE DOWNLOAD: https://drive.google.com/drive/folders/1jZBw90oDCTFf4fWxfFkw72dU4XF6G4GJ?usp=sharing
 
 # ASSETS USED:
 - https://deadrevolver.itch.io/pixel-prototype-player-sprites
@@ -20,3 +22,7 @@
 - https://deadrevolver.itch.io/pixel-platformer-enemy-sprites
 
 # About this Game:
+This is a 2 player split screen pixel platformer.
+The goal of every level is to reach the pressure plate corresponding to the player.
+When both pressure plates are touched by the respective player, the level is considered passed.
+For certain levels there are different paths that the players have to take in order to reach their pressure plates, all while trying to collect as many coins as possible.
