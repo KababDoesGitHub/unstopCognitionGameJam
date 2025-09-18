@@ -12,8 +12,8 @@ config_version=5
 
 config/name="New Game Project"
 run/main_scene="uid://b5v576hrfada1"
-config/features=PackedStringArray("4.4", "Forward Plus")
-boot_splash/bg_color=Color(0, 1, 0.854902, 1)
+config/features=PackedStringArray("4.5", "Forward Plus")
+boot_splash/bg_color=Color(0, 0, 0, 1)
 config/icon="uid://dptf7sieknyqa"
 
 [display]
