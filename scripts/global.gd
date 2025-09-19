@@ -1,12 +1,10 @@
 extends Node
 
-var score = 0
+var isGlitching = false
+var areSwapped = false
 
 func _ready() -> void:
 	pass
-
-func add_point():
-	score += 1
 
 func _process(_delta: float) -> void:
 	pass

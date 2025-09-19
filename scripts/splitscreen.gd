@@ -13,7 +13,6 @@ extends Node
 	}
 }
 
-# Called when the node enters the scene tree for the first time.
 func _ready() -> void:
 	players["2"].viewport.world_2d = players["1"].viewport.world_2d
 	for node in players.values():
@@ -21,5 +20,5 @@ func _ready() -> void:
 		remote_transform.remote_path = node.camera.get_path()
 		node.player.add_child(remote_transform)
 
-func _process(delta: float) -> void:
+func _process(_delta: float) -> void:
 	pass

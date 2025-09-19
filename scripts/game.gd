@@ -2,20 +2,39 @@ extends Node2D
 
 var greenPressurePlatePressed = false
 var bluePressurePlatePressed = false
+@onready var animated_sprite = $player/AnimatedSprite2D1
+@onready var animated_sprite2 = $player2/AnimatedSprite2D2
+@onready var bluePressurePlate = $pressureplates/bluepressureplates/bluePressurePlate
+@onready var greenPressurePlate = $pressureplates/greenpressureplates/greenPressurePlate
 
-# Called when the node enters the scene tree for the first time.
 func _ready() -> void:
-	pass # Replace with function body.
+	pass
 
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta: float) -> void:
+func _process(_delta: float) -> void:
 	if(bluePressurePlatePressed and greenPressurePlatePressed):
-		get_tree().change_scene_to_file("res://scenes/level_successful.tscn")
+		
+		_swap_bodies()
 
-func _on_blue_pressure_plate_body_entered(body: Node2D) -> void:
+func _swap_bodies():
+	#PLAY GLITCHED SFX
+	Global.isGlitching = true
+	animated_sprite2.play("Glitch")
+	animated_sprite.play("Glitch")
+	await animated_sprite2.animation_finished
+	if(Global.areSwapped):
+		#MAKE GLITCHED MIDDLE INVISIBLE
+		Global.areSwapped=false
+	else:
+		#CHANGE MIDDLE PART OF SCREEN TO GLITCHED
+		Global.areSwapped=true
+	Global.isGlitching = false
+	greenPressurePlatePressed = false
+	bluePressurePlatePressed = false
+
+func _on_blue_pressure_plate_body_entered(_body: Node2D) -> void:
 	bluePressurePlatePressed = true
 	pass
 
-func _on_green_pressure_plate_body_entered(body: Node2D) -> void:
+func _on_green_pressure_plate_body_entered(_body: Node2D) -> void:
 	greenPressurePlatePressed = true
 	pass

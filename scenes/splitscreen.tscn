@@ -1,4 +1,4 @@
-[gd_scene load_steps=8 format=3 uid="uid://dls6cvlme83pf"]
+[gd_scene load_steps=13 format=4 uid="uid://dls6cvlme83pf"]
 
 [ext_resource type="PackedScene" uid="uid://bfu7fkf0e1j8w" path="res://scenes/game.tscn" id="1_lt01p"]
 [ext_resource type="Script" uid="uid://cqb0hijckyiae" path="res://scripts/splitscreen.gd" id="1_u6apx"]
@@ -8,8 +8,63 @@
 [ext_resource type="Texture2D" uid="uid://dr1ixiq556vus" path="res://assets/background/buildings_mid.png" id="6_v42x8"]
 [ext_resource type="Texture2D" uid="uid://cmfp7ube4hqx8" path="res://assets/background/buildings_close.png" id="7_dqqnb"]
 
+[sub_resource type="PortableCompressedTexture2D" id="PortableCompressedTexture2D_otgcc"]
+_data = PackedByteArray("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")
+size_override = Vector2(2304, 1296)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_coh6e"]
+atlas = SubResource("PortableCompressedTexture2D_otgcc")
+region = Rect2(0, 0, 1152, 648)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_fmpxd"]
+atlas = SubResource("PortableCompressedTexture2D_otgcc")
+region = Rect2(1152, 0, 1152, 648)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_v42x8"]
+atlas = SubResource("PortableCompressedTexture2D_otgcc")
+region = Rect2(0, 648, 1152, 648)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_dqqnb"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_coh6e")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_fmpxd")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_v42x8")
+}],
+"loop": true,
+"name": &"default",
+"speed": 10.0
+}]
+
 [node name="SPLITSCREEN" type="Node"]
 script = ExtResource("1_u6apx")
+
+[node name="glitchEffect" type="AnimatedSprite2D" parent="."]
+texture_filter = 1
+position = Vector2(576, 324)
+sprite_frames = SubResource("SpriteFrames_dqqnb")
+metadata/_aseprite_wizard_interface_config_ = {
+"pending_changes": {}
+}
+metadata/_aseprite_wizard_config_ = {
+"embed_tex": true,
+"layers": [],
+"o_ex_p": "",
+"o_folder": "",
+"o_name": "",
+"only_visible": false,
+"scale": "1.0",
+"should_round_fps": true,
+"slice": "",
+"source": "res://assets/glitch effect line.aseprite",
+"source_uid": 650704297251147050
+}
+metadata/_aseprite_wizard_source_file_hash_ = "d312186a1a750d3c8bf71d004c6323e3"
 
 [node name="SubViewportContainer" type="SubViewportContainer" parent="."]
 offset_right = 576.0
@@ -151,5 +206,3 @@ motion_mirroring = Vector2(1056, 0)
 [node name="Sprite2D" type="Sprite2D" parent="SubViewportContainer2/SubViewport/ParallaxBackground2/buildingsClose"]
 texture_filter = 1
 texture = ExtResource("7_dqqnb")
-
-[node name="Sprite2D" type="Sprite2D" parent="."]
