@@ -13,7 +13,7 @@
 [ext_resource type="PackedScene" uid="uid://ciooyovw4tncd" path="res://scenes/kill_zone.tscn" id="10_vtaks"]
 [ext_resource type="Texture2D" uid="uid://blgm8t5u04b80" path="res://assets/green arrow_literally.png" id="12_kvuet"]
 [ext_resource type="Texture2D" uid="uid://ca21r0k2s7ltd" path="res://assets/blue arrow.png" id="13_trtic"]
-[ext_resource type="AudioStream" uid="uid://mmdvmrpdbl6k" path="res://sounds/CyberPop.wav" id="14_trtic"]
+[ext_resource type="AudioStream" uid="uid://be5o0g8b1qkl7" path="res://sounds/glitch-effect-1-397982.mp3" id="14_trtic"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_lnu2h"]
 texture = ExtResource("2_yqjtg")
@@ -1238,6 +1238,9 @@ animations = [{
 position = Vector2(2, -1)
 script = ExtResource("1_gee14")
 
+[node name="glitchSFX" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("14_trtic")
+
 [node name="game_manager" type="Node" parent="."]
 unique_name_in_owner = true
 script = ExtResource("2_kvpfn")
@@ -1368,11 +1371,6 @@ texture = ExtResource("12_kvuet")
 texture_filter = 1
 position = Vector2(49, 28)
 texture = ExtResource("13_trtic")
-
-[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
-stream = ExtResource("14_trtic")
-volume_db = 24.0
-autoplay = true
 
 [connection signal="body_entered" from="pressureplates/bluepressureplates/bluePressurePlate" to="." method="_on_blue_pressure_plate_body_entered"]
 [connection signal="body_entered" from="pressureplates/greenpressureplates/greenPressurePlate" to="." method="_on_green_pressure_plate_body_entered"]

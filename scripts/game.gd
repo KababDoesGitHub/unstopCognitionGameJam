@@ -6,17 +6,17 @@ var bluePressurePlatePressed = false
 @onready var animated_sprite2 = $player2/AnimatedSprite2D2
 @onready var bluePressurePlate = $pressureplates/bluepressureplates/bluePressurePlate
 @onready var greenPressurePlate = $pressureplates/greenpressureplates/greenPressurePlate
+@onready var audioPlayer = $glitchSFX
 
 func _ready() -> void:
 	pass
 
 func _process(_delta: float) -> void:
 	if(bluePressurePlatePressed and greenPressurePlatePressed):
-		
 		_swap_bodies()
 
 func _swap_bodies():
-	#PLAY GLITCHED SFX
+	audioPlayer.play()
 	Global.isGlitching = true
 	animated_sprite2.play("Glitch")
 	animated_sprite.play("Glitch")
